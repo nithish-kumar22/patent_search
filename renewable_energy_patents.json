@@ -1,0 +1,4087 @@
+{
+    "search_metadata": {
+        "id": "68e69c524fa3baa9e1440f77",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f4e93e13db908fe0/68e69c524fa3baa9e1440f77.json",
+        "created_at": "2025-10-08 17:16:02 UTC",
+        "processed_at": "2025-10-08 17:16:02 UTC",
+        "google_patents_url": "https://patents.google.com/xhr/query?url=q%3Drenewable%2Benergy%2BOR%2Bsolar%2Bpower%2BOR%2Bwind%2Bturbine%26num%3D50",
+        "raw_html_file": "https://serpapi.com/searches/f4e93e13db908fe0/68e69c524fa3baa9e1440f77.html",
+        "prettify_html_file": "https://serpapi.com/searches/f4e93e13db908fe0/68e69c524fa3baa9e1440f77.prettify",
+        "total_time_taken": 3.1
+    },
+    "search_parameters": {
+        "engine": "google_patents",
+        "q": "renewable energy OR solar power OR wind turbine",
+        "num": "50"
+    },
+    "search_information": {
+        "total_results": 114127,
+        "total_pages": 20,
+        "page_number": 1
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "rank": 0,
+            "patent_id": "patent/CA2797070C/en",
+            "patent_link": "https://patents.google.com/patent/CA2797070C/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2797070C%2Fen",
+            "title": "Lift-based vertical axis wind turbine",
+            "snippet": "11. The vertical axis wind turbine of claim 10, wherein the power management subsystem includes a regenerative drive circuit for converting DC voltage into AC voltage and for recapturing electrical power when the control circuit is acting as a brake. 12. A vertical axis wind turbine comprising: a",
+            "priority_date": "2010-04-23",
+            "filing_date": "2011-04-08",
+            "grant_date": "2019-08-20",
+            "publication_date": "2019-08-20",
+            "inventor": "Jonathan Haar",
+            "assignee": "Eastern Wind Power",
+            "publication_number": "CA2797070C",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/b1/ba/cf/e9a3bc8702b776/CA2797070C.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "EP": "ACTIVE",
+                "US": "ACTIVE",
+                "CA": "ACTIVE"
+            }
+        },
+        {
+            "position": 2,
+            "rank": 1,
+            "patent_id": "patent/WO2014033473A1/en",
+            "patent_link": "https://patents.google.com/patent/WO2014033473A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014033473A1%2Fen",
+            "title": "Vertical axis wind turbine",
+            "snippet": "1. Apparatus comprising a shaft mounted vertically in a support providing for axial rotation of the vertically mounted shaft, and a plurality of vertically oriented elongate turbine blades mounted upon the vertical shaft, each turbine blade having a length between opposite free ends, and a length- …",
+            "priority_date": "2012-09-03",
+            "filing_date": "2013-08-30",
+            "publication_date": "2014-03-06",
+            "inventor": "Joseph Bertony",
+            "assignee": "Advance Windpower Ltd",
+            "publication_number": "WO2014033473A1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/31/29/e7/be13eeaf621838/WO2014033473A1.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "EP": "ACTIVE",
+                "US": "NOT_ACTIVE",
+                "AU": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 3,
+            "rank": 2,
+            "patent_id": "patent/CA2703468A1/en",
+            "patent_link": "https://patents.google.com/patent/CA2703468A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2703468A1%2Fen",
+            "title": "Hybrid renewable energy turbine using wind and solar power",
+            "snippet": "12. The system for generating electricity of claim 11 wherein the tower is constructed from a plurality of beams which form a lattice. 13. The system for generating electricity of claim 11 wherein the tower has a solid surface. 14. The system for generating electricity of claim 11 wherein the solar …",
+            "priority_date": "2010-05-12",
+            "filing_date": "2010-05-12",
+            "publication_date": "2010-08-04",
+            "inventor": "Dawn E. Ottman",
+            "assignee": "Dawn E. Ottman",
+            "publication_number": "CA2703468A1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/95/d0/5b/3b5fc9e58d5732/CA2703468A1.pdf",
+            "country_status": {
+                "CA": "ACTIVE"
+            }
+        },
+        {
+            "position": 4,
+            "rank": 3,
+            "patent_id": "patent/WO2016205913A1/en",
+            "patent_link": "https://patents.google.com/patent/WO2016205913A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2016205913A1%2Fen",
+            "title": "A wind turbine with leveraged aerodynamic blades",
+            "snippet": "1 , A wind turbine with levered aerodynamic blades, constituted by a vertical- axis wind turbine (1 ), characterized by having conical aerodynamic blades of elongate \"shell\" type (2), provided with lower tapering (3), ending in a cylindrical connector (4) for fixation of the connectors (6) of the …",
+            "priority_date": "2015-06-23",
+            "filing_date": "2016-06-23",
+            "publication_date": "2016-12-29",
+            "inventor": "Luiz Roberto TAVARES",
+            "assignee": "Tavares Luiz Roberto",
+            "publication_number": "WO2016205913A1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/2c/23/41/9f2a174bd2c367/WO2016205913A1.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "BR": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 5,
+            "rank": 4,
+            "patent_id": "patent/WO2015168008A1/en",
+            "patent_link": "https://patents.google.com/patent/WO2015168008A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2015168008A1%2Fen",
+            "title": "System and method for restarting a wind turbine using clean energy",
+            "snippet": "9. The wind turbine and solar photovoltaic system according to claim 1 further including a power management program. 10. A method of restarting a wind turbine, the method comprising: collecting energy from a solar energy collecting system located on a wind turbine support structure; transferring …",
+            "priority_date": "2014-04-28",
+            "filing_date": "2015-04-27",
+            "publication_date": "2015-11-05",
+            "inventor": "Dawn Emily Ottman",
+            "assignee": "Dawn Emily Ottman",
+            "publication_number": "WO2015168008A1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/aa/58/44/31d69468448723/WO2015168008A1.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "CA": "ACTIVE"
+            }
+        },
+        {
+            "position": 6,
+            "rank": 5,
+            "patent_id": "patent/US9915242B2/en",
+            "patent_link": "https://patents.google.com/patent/US9915242B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9915242B2%2Fen",
+            "title": "Roof ridge wind turbine",
+            "snippet": "the enclosure including plural spaced columns forming opposed sidewalls and wind pivoting louvers supported above the columns; at least one paddle-wheel type wind turbine having a rotatable shaft which supports multiple radially spaced blades that when contacted by wind cause the shaft to rotate …",
+            "priority_date": "2008-11-24",
+            "filing_date": "2013-09-19",
+            "grant_date": "2018-03-13",
+            "publication_date": "2018-03-13",
+            "inventor": "Raymond E. Paggi",
+            "assignee": "Turboroof Llc",
+            "publication_number": "US9915242B2",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/38/1b/18/922a37dcae40ef/US09915242-20180313-D00000.png",
+            "pdf": "https://patentimages.storage.googleapis.com/09/ba/2f/7cdf5a5c7b85fc/US9915242.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/eb/af/13/c43636ee364c65/US09915242-20180313-D00000.png",
+                    "full": "https://patentimages.storage.googleapis.com/ce/19/3e/a2508bb95e0310/US09915242-20180313-D00000.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/d2/78/b1/378c1b63630d5c/US09915242-20180313-D00001.png",
+                    "full": "https://patentimages.storage.googleapis.com/3d/da/3f/f9926ef81562ec/US09915242-20180313-D00001.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/3e/4b/18/eaa73017938cf7/US09915242-20180313-D00002.png",
+                    "full": "https://patentimages.storage.googleapis.com/3d/32/58/f144958f6c17bc/US09915242-20180313-D00002.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/46/38/f9/ee68453bfaaca8/US09915242-20180313-D00003.png",
+                    "full": "https://patentimages.storage.googleapis.com/69/ef/23/5ea6fc043aece4/US09915242-20180313-D00003.png"
+                }
+            ],
+            "country_status": {
+                "US": "ACTIVE"
+            }
+        },
+        {
+            "position": 7,
+            "rank": 6,
+            "patent_id": "patent/US9194371B2/en",
+            "patent_link": "https://patents.google.com/patent/US9194371B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9194371B2%2Fen",
+            "title": "Wind turbine",
+            "snippet": "13. The wind turbine recited in claim 1 wherein, the turbine is connected to a multi-pole generator having a rotor and having poles connected in series and of sufficient size to provide a higher output voltage relative to the output of a dipole generator. 14. The wind turbine recited in claim 13 ,",
+            "priority_date": "2009-06-22",
+            "filing_date": "2015-02-27",
+            "grant_date": "2015-11-24",
+            "publication_date": "2015-11-24",
+            "inventor": "Kean W. Stimm",
+            "assignee": "Kean W. Stimm",
+            "publication_number": "US9194371B2",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/ff/3e/42/0cc17489a73e76/US09194371-20151124-D00000.png",
+            "pdf": "https://patentimages.storage.googleapis.com/10/4c/6f/80cc554772b619/US9194371.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/95/fa/63/7b5b5e5e7f5022/US09194371-20151124-D00000.png",
+                    "full": "https://patentimages.storage.googleapis.com/81/20/22/499a62375a0c7c/US09194371-20151124-D00000.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/d0/69/5e/83d9abbc2d62f4/US09194371-20151124-D00001.png",
+                    "full": "https://patentimages.storage.googleapis.com/cd/e3/6d/622537c778d173/US09194371-20151124-D00001.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/e0/ce/f8/e2b36366839743/US09194371-20151124-D00002.png",
+                    "full": "https://patentimages.storage.googleapis.com/32/f2/db/c5cf699c625916/US09194371-20151124-D00002.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/cc/d8/a3/2fe3bbe964febc/US09194371-20151124-D00003.png",
+                    "full": "https://patentimages.storage.googleapis.com/fe/9b/c2/9db827a4f12519/US09194371-20151124-D00003.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/b1/99/dd/2cae78f936d805/US09194371-20151124-D00004.png",
+                    "full": "https://patentimages.storage.googleapis.com/ed/e7/03/fa2a07de6be784/US09194371-20151124-D00004.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/96/37/77/7ddfddde2fd6ab/US09194371-20151124-D00005.png",
+                    "full": "https://patentimages.storage.googleapis.com/c9/e3/15/71b328406e441c/US09194371-20151124-D00005.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/63/b4/fa/16c3abe029c535/US09194371-20151124-D00006.png",
+                    "full": "https://patentimages.storage.googleapis.com/3c/54/27/81e597e9be20d9/US09194371-20151124-D00006.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/f3/c7/68/bf52de3640594f/US09194371-20151124-D00007.png",
+                    "full": "https://patentimages.storage.googleapis.com/2a/ed/97/461d40881cedad/US09194371-20151124-D00007.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/06/91/68/fc38d8531b7c96/US09194371-20151124-D00008.png",
+                    "full": "https://patentimages.storage.googleapis.com/57/ad/42/9e55b17c1cb1f8/US09194371-20151124-D00008.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/6c/62/8f/4729ba4848c99f/US09194371-20151124-D00009.png",
+                    "full": "https://patentimages.storage.googleapis.com/85/17/be/4306a696117fbf/US09194371-20151124-D00009.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/b5/a7/e0/01dbf599c58578/US09194371-20151124-D00010.png",
+                    "full": "https://patentimages.storage.googleapis.com/17/3c/4d/f2fecfdb484b03/US09194371-20151124-D00010.png"
+                }
+            ],
+            "country_status": {
+                "WO": "ACTIVE",
+                "US": "ACTIVE",
+                "AU": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 8,
+            "rank": 7,
+            "patent_id": "patent/US20100133852A1/en",
+            "patent_link": "https://patents.google.com/patent/US20100133852A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100133852A1%2Fen",
+            "title": "Vertical axis wind turbine with variable area",
+            "snippet": "7 . The vertical axis wind turbine of claim 1 , wherein the turbine uses more than two blades. 8 . The vertical axis wind turbine of claim 1 , wherein each blade includes a plurality or multiple sections that can be telescoped to vary the area of the blade. 9 . The vertical axis wind turbine of claim 1 ,",
+            "priority_date": "2008-11-21",
+            "filing_date": "2009-11-20",
+            "publication_date": "2010-06-03",
+            "inventor": "Robert W. Preus",
+            "assignee": "Preus Robert W",
+            "publication_number": "US20100133852A1",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/35/da/e1/a685a3bb6a2281/US20100133852A1-20100603-D00000.png",
+            "pdf": "https://patentimages.storage.googleapis.com/f4/a2/34/cd4599ac239990/US20100133852A1.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/f7/6c/cb/2069a697e5415b/US20100133852A1-20100603-D00000.png",
+                    "full": "https://patentimages.storage.googleapis.com/ac/fb/da/117bb0d1d82007/US20100133852A1-20100603-D00000.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/fa/04/94/fc99246c2a098a/US20100133852A1-20100603-D00001.png",
+                    "full": "https://patentimages.storage.googleapis.com/2a/d8/5f/31109055fbcb23/US20100133852A1-20100603-D00001.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/d7/24/30/b280f3c1b472e4/US20100133852A1-20100603-D00002.png",
+                    "full": "https://patentimages.storage.googleapis.com/a8/3f/da/3d8aff717e7f3f/US20100133852A1-20100603-D00002.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/cb/f2/9d/4ce26159edeb7f/US20100133852A1-20100603-D00003.png",
+                    "full": "https://patentimages.storage.googleapis.com/9a/89/25/fa5cae31d7611f/US20100133852A1-20100603-D00003.png"
+                }
+            ],
+            "country_status": {
+                "WO": "ACTIVE",
+                "US": "ACTIVE"
+            }
+        },
+        {
+            "position": 9,
+            "rank": 8,
+            "patent_id": "patent/EP1952016A1/en",
+            "patent_link": "https://patents.google.com/patent/EP1952016A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1952016A1%2Fen",
+            "title": "A wind turbine",
+            "snippet": "7. A wind turbine according to any preceding claim further including a gearing mechanism for transmitting torque from the rotors to a generator. 8. A wind turbine according to any preceding claim whereby, in use, the generator is statically mounted, with respect to the wind turbine, thereby …",
+            "priority_date": "2005-10-18",
+            "filing_date": "2006-10-18",
+            "publication_date": "2008-08-06",
+            "inventor": "Jonathan Andrew Law",
+            "assignee": "Jonathan Andrew Law",
+            "publication_number": "EP1952016A1",
+            "language": "en",
+            "country_status": {
+                "WO": "ACTIVE",
+                "EP": "NOT_ACTIVE",
+                "US": "NOT_ACTIVE",
+                "GB": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 10,
+            "rank": 9,
+            "patent_id": "patent/WO2012017078A2/en",
+            "patent_link": "https://patents.google.com/patent/WO2012017078A2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012017078A2%2Fen",
+            "title": "Solar tower with integrated gas turbine",
+            "snippet": "13. A solar tower according to any preceding claim wherein the gas heating arrangement includes a supplementary gas turbine firing capability. 14. A solar tower according to claim 13, wherein the supplementary firing capability comprises a combustion chamber located either after the solar radiation …",
+            "priority_date": "2010-08-06",
+            "filing_date": "2011-08-05",
+            "publication_date": "2012-02-09",
+            "inventor": "Kai Wieghardt",
+            "assignee": "Alstom Technology Ltd",
+            "publication_number": "WO2012017078A2",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/a5/aa/ab/bc9b6484466218/WO2012017078A2.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "EP": "NOT_ACTIVE",
+                "US": "NOT_ACTIVE",
+                "CN": "ACTIVE",
+                "MA": "UNKNOWN",
+                "ZA": "UNKNOWN"
+            }
+        },
+        {
+            "position": 11,
+            "rank": 10,
+            "patent_id": "patent/WO2008104060A1/en",
+            "patent_link": "https://patents.google.com/patent/WO2008104060A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2008104060A1%2Fen",
+            "title": "Collapsible vertical-axis turbine",
+            "snippet": "wherein the cables run from the first connection points through the pulley means to the winch means. 13. The turbine of claim 12 wherein the winch means are located on lower positions on the rotating section. 14. The turbine of claim 12 further comprising a secondary system, the secondary system …",
+            "priority_date": "2007-02-27",
+            "filing_date": "2008-02-27",
+            "publication_date": "2008-09-04",
+            "inventor": "Roland J. Vander Straeten",
+            "assignee": "Vaxsis Inc.",
+            "publication_number": "WO2008104060A1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/6d/28/ab/2a698ce9958c57/WO2008104060A1.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "US": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 12,
+            "rank": 11,
+            "patent_id": "patent/ATE515822T1/en",
+            "patent_link": "https://patents.google.com/patent/ATE515822T1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FATE515822T1%2Fen",
+            "title": "WIND TURBINE WITH DOUBLE FEEDED ASYNCHRONOUS GENERATOR AND INVERTER CONTROL",
+            "snippet": "A method for controlling a converter of a wind energy installation. The converter is connected to the rotor of a doubly-fed asynchronous generator in order to feed electrical power into an electrical grid and comprises a generator-side inverter, a grid-side inverter, and at least one converter …",
+            "priority_date": "2008-02-20",
+            "filing_date": "2009-02-18",
+            "grant_date": "2011-07-15",
+            "publication_date": "2011-07-15",
+            "inventor": "Heinz-Hermann Letas",
+            "assignee": "Repower Systems Ag",
+            "publication_number": "ATE515822T1",
+            "language": "en",
+            "country_status": {
+                "WO": "ACTIVE",
+                "EP": "ACTIVE",
+                "US": "ACTIVE",
+                "CN": "ACTIVE",
+                "AT": "ACTIVE",
+                "CA": "ACTIVE",
+                "DE": "NOT_ACTIVE",
+                "DK": "ACTIVE",
+                "ES": "ACTIVE"
+            }
+        },
+        {
+            "position": 13,
+            "rank": 12,
+            "patent_id": "patent/EP2188523A2/en",
+            "patent_link": "https://patents.google.com/patent/EP2188523A2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2188523A2%2Fen",
+            "title": "Lateral wind turbine",
+            "snippet": "12. A lateral wind turbine in accordance with claim 11, wherein the elongated housing is substantially cylindrical. 13. A lateral wind turbine in accordance with claim 11, wherein the generator is connected to the housing. 14. A lateral wind turbine in accordance with claim 11, wherein a distal end …",
+            "priority_date": "2007-07-10",
+            "filing_date": "2008-07-10",
+            "publication_date": "2010-05-26",
+            "inventor": "Robert J. Donaghey",
+            "assignee": "California Wind Systems",
+            "publication_number": "EP2188523A2",
+            "language": "en",
+            "country_status": {
+                "WO": "ACTIVE",
+                "EP": "NOT_ACTIVE",
+                "US": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 14,
+            "rank": 13,
+            "patent_id": "patent/AU2007205199B2/en",
+            "patent_link": "https://patents.google.com/patent/AU2007205199B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2007205199B2%2Fen",
+            "title": "Wind turbine assembly and related method",
+            "snippet": "11. A method of generating electrical power, comprising: 5 positioning a wind turbine assembly atop a building, in proximity to a parapet of the building, such that the wind turbine assembly is exposed to an enhanced wind region created as Wind flows over the parapet, along a wind flow path that is …",
+            "priority_date": "2006-01-04",
+            "filing_date": "2007-01-03",
+            "grant_date": "2011-10-06",
+            "publication_date": "2011-10-06",
+            "inventor": "Tyler Maccready",
+            "assignee": "Aerovironment, Inc.",
+            "publication_number": "AU2007205199B2",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/70/f3/8d/aeebd39784a082/AU2007205199B2.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "EP": "ACTIVE",
+                "US": "ACTIVE",
+                "AU": "ACTIVE",
+                "DK": "ACTIVE",
+                "ES": "ACTIVE"
+            }
+        },
+        {
+            "position": 15,
+            "rank": 14,
+            "patent_id": "patent/US20120020788A1/en",
+            "patent_link": "https://patents.google.com/patent/US20120020788A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120020788A1%2Fen",
+            "title": "Wind energy system",
+            "snippet": "7 . The system of claim 1 wherein the one or more turbines is selected from the group: Darrieus vertical axis wind turbine and Savonius vertical axis wind turbine. 8 . The system of claim 1 further comprising a rectifier and an inverter to provide electricity from the one or more wind turbines. 9 .",
+            "priority_date": "2009-10-29",
+            "filing_date": "2011-09-29",
+            "publication_date": "2012-01-26",
+            "inventor": "Dan Lucy",
+            "assignee": "The Green Electric Company, A Massachusetts Corporation",
+            "publication_number": "US20120020788A1",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/13/4b/6c/e49d19452ee89d/US20120020788A1-20120126-D00000.png",
+            "pdf": "https://patentimages.storage.googleapis.com/32/e1/71/6c45a7320b22c8/US20120020788A1.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/30/76/92/b4f9585ea5b404/US20120020788A1-20120126-D00000.png",
+                    "full": "https://patentimages.storage.googleapis.com/52/c3/c3/76d8b62ce5a86b/US20120020788A1-20120126-D00000.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/ef/46/35/a1ab80b439ba52/US20120020788A1-20120126-D00001.png",
+                    "full": "https://patentimages.storage.googleapis.com/92/46/62/4796053a5a4d31/US20120020788A1-20120126-D00001.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/2b/f4/e1/6cd9356173a385/US20120020788A1-20120126-D00002.png",
+                    "full": "https://patentimages.storage.googleapis.com/5a/99/2c/978f64657ed648/US20120020788A1-20120126-D00002.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/90/24/3b/862befc6cff029/US20120020788A1-20120126-D00003.png",
+                    "full": "https://patentimages.storage.googleapis.com/1f/fd/9a/0beb67b5cf77bb/US20120020788A1-20120126-D00003.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/ef/b7/16/3312bc29e0339e/US20120020788A1-20120126-D00004.png",
+                    "full": "https://patentimages.storage.googleapis.com/31/95/c7/97ffb54ec37803/US20120020788A1-20120126-D00004.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/61/81/65/2a3928ce4ac220/US20120020788A1-20120126-D00005.png",
+                    "full": "https://patentimages.storage.googleapis.com/2f/23/38/2269f87372c34d/US20120020788A1-20120126-D00005.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/6d/d8/19/9bc079c8bd9997/US20120020788A1-20120126-D00006.png",
+                    "full": "https://patentimages.storage.googleapis.com/c6/aa/12/1f76e77a4eeb1b/US20120020788A1-20120126-D00006.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/62/1a/fc/651ed237f16daa/US20120020788A1-20120126-D00007.png",
+                    "full": "https://patentimages.storage.googleapis.com/84/30/9a/3d103a5f683629/US20120020788A1-20120126-D00007.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/ba/6e/1f/d0d34621c46210/US20120020788A1-20120126-D00008.png",
+                    "full": "https://patentimages.storage.googleapis.com/6a/33/3e/06700f43bd29f4/US20120020788A1-20120126-D00008.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/3b/45/e8/36c87f888a2a65/US20120020788A1-20120126-D00009.png",
+                    "full": "https://patentimages.storage.googleapis.com/59/51/3c/04f1f51b0efb63/US20120020788A1-20120126-D00009.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/c2/25/36/76e180e2a8ed5e/US20120020788A1-20120126-D00010.png",
+                    "full": "https://patentimages.storage.googleapis.com/fe/22/07/e7974b133f66cd/US20120020788A1-20120126-D00010.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/f5/cb/1e/fb1dab3494de75/US20120020788A1-20120126-D00011.png",
+                    "full": "https://patentimages.storage.googleapis.com/df/bd/3b/abe6423d8dc779/US20120020788A1-20120126-D00011.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/32/5b/0e/0f3a8f50a054b8/US20120020788A1-20120126-D00012.png",
+                    "full": "https://patentimages.storage.googleapis.com/58/7c/45/754c6aae34fd17/US20120020788A1-20120126-D00012.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/f3/b9/39/5c0d27d967211f/US20120020788A1-20120126-D00013.png",
+                    "full": "https://patentimages.storage.googleapis.com/d2/8a/bf/b0b2eb6d603c3a/US20120020788A1-20120126-D00013.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/e7/d3/fe/ed2c57405cdc4e/US20120020788A1-20120126-D00014.png",
+                    "full": "https://patentimages.storage.googleapis.com/61/9c/ef/05ac95abffa190/US20120020788A1-20120126-D00014.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/aa/ae/38/ef8635fd2ccbcd/US20120020788A1-20120126-D00015.png",
+                    "full": "https://patentimages.storage.googleapis.com/77/7e/50/fe90f06860fd83/US20120020788A1-20120126-D00015.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/ba/e3/a9/2fdf0d8ae19d77/US20120020788A1-20120126-D00016.png",
+                    "full": "https://patentimages.storage.googleapis.com/7d/08/d3/520a494ded42db/US20120020788A1-20120126-D00016.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/75/ff/84/116a33826e3beb/US20120020788A1-20120126-D00017.png",
+                    "full": "https://patentimages.storage.googleapis.com/71/9e/c4/62a2d7d8206bc5/US20120020788A1-20120126-D00017.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/3d/db/30/c4177716986178/US20120020788A1-20120126-D00018.png",
+                    "full": "https://patentimages.storage.googleapis.com/c2/0c/f1/2434fb943213d0/US20120020788A1-20120126-D00018.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/ea/27/ca/3dbac30a1bfcd6/US20120020788A1-20120126-D00019.png",
+                    "full": "https://patentimages.storage.googleapis.com/b9/2c/dc/53fb2b4a31ef72/US20120020788A1-20120126-D00019.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/eb/e1/29/5cd8be0d7edab2/US20120020788A1-20120126-D00020.png",
+                    "full": "https://patentimages.storage.googleapis.com/d0/b8/81/5ee587a53678f7/US20120020788A1-20120126-D00020.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/25/64/c4/b0cb86c73bbaec/US20120020788A1-20120126-D00021.png",
+                    "full": "https://patentimages.storage.googleapis.com/7c/9d/24/92765d842489c2/US20120020788A1-20120126-D00021.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/99/aa/c3/9dff1b6392c139/US20120020788A1-20120126-D00022.png",
+                    "full": "https://patentimages.storage.googleapis.com/23/b5/7b/5814696fa104c8/US20120020788A1-20120126-D00022.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/c6/43/8e/17ef67e77a12c0/US20120020788A1-20120126-D00023.png",
+                    "full": "https://patentimages.storage.googleapis.com/5b/e3/2a/4be03283c90094/US20120020788A1-20120126-D00023.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/b5/4f/99/c8acad1e74a16c/US20120020788A1-20120126-D00024.png",
+                    "full": "https://patentimages.storage.googleapis.com/24/e3/97/1142882d76f511/US20120020788A1-20120126-D00024.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/61/64/76/f56e17465a47aa/US20120020788A1-20120126-D00025.png",
+                    "full": "https://patentimages.storage.googleapis.com/f7/87/ad/3868b272f91bd2/US20120020788A1-20120126-D00025.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/46/69/16/5ab795a278d9a3/US20120020788A1-20120126-D00026.png",
+                    "full": "https://patentimages.storage.googleapis.com/f7/e9/82/ccf896362a9b2a/US20120020788A1-20120126-D00026.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/9e/cc/a3/8d03e6457a7e64/US20120020788A1-20120126-D00027.png",
+                    "full": "https://patentimages.storage.googleapis.com/b4/19/39/1acb32317abfd3/US20120020788A1-20120126-D00027.png"
+                }
+            ],
+            "country_status": {
+                "US": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 16,
+            "rank": 15,
+            "patent_id": "patent/US9041239B2/en",
+            "patent_link": "https://patents.google.com/patent/US9041239B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9041239B2%2Fen",
+            "title": "Vertical axis wind turbine with cambered airfoil blades",
+            "snippet": "5. A vertical axis wind turbine according to claim 1 , further comprising a magnetic bearing supporting the shaft, the magnetic bearing configured to allow the shaft to rotate about the center axis and to stabilize the shaft in a vertical orientation. 6. A vertical axis wind turbine according to",
+            "priority_date": "2012-09-13",
+            "filing_date": "2013-09-13",
+            "grant_date": "2015-05-26",
+            "publication_date": "2015-05-26",
+            "inventor": "Martin Epstein",
+            "assignee": "Martin Epstein",
+            "publication_number": "US9041239B2",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/06/c7/b7/773256e9764ab8/US09041239-20150526-D00000.png",
+            "pdf": "https://patentimages.storage.googleapis.com/6b/f0/4a/5936a0643d0e74/US9041239.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/56/d9/f1/197f614da410a3/US09041239-20150526-D00000.png",
+                    "full": "https://patentimages.storage.googleapis.com/f4/98/b9/8c63a5f2a0e9f8/US09041239-20150526-D00000.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/39/f1/3c/5a088cc6a3af0c/US09041239-20150526-D00001.png",
+                    "full": "https://patentimages.storage.googleapis.com/e4/d8/d2/906494d7769eb9/US09041239-20150526-D00001.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/6b/fc/1c/9cc69364a311c4/US09041239-20150526-D00002.png",
+                    "full": "https://patentimages.storage.googleapis.com/cd/53/d1/7b3886159ec871/US09041239-20150526-D00002.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/c3/31/89/5403b7809b2f98/US09041239-20150526-D00003.png",
+                    "full": "https://patentimages.storage.googleapis.com/4d/35/bc/6a4b2f86a5d1ab/US09041239-20150526-D00003.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/dd/4d/e1/ae26c7381ec534/US09041239-20150526-D00004.png",
+                    "full": "https://patentimages.storage.googleapis.com/7e/bb/0d/02da385358bb90/US09041239-20150526-D00004.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/eb/a4/c8/ea0f5419fdea2a/US09041239-20150526-D00005.png",
+                    "full": "https://patentimages.storage.googleapis.com/1c/f1/62/24c31be1225345/US09041239-20150526-D00005.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/57/0b/64/952de563ed9d43/US09041239-20150526-D00006.png",
+                    "full": "https://patentimages.storage.googleapis.com/bc/61/61/cdb25878342a7d/US09041239-20150526-D00006.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/80/30/4b/59859585081343/US09041239-20150526-D00007.png",
+                    "full": "https://patentimages.storage.googleapis.com/19/55/4f/a7a63291b34710/US09041239-20150526-D00007.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/74/49/6e/8ff1ec06545ab2/US09041239-20150526-D00008.png",
+                    "full": "https://patentimages.storage.googleapis.com/28/b0/8a/9b2a834e0e38c8/US09041239-20150526-D00008.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/d6/d8/ff/628a42e713891b/US09041239-20150526-D00009.png",
+                    "full": "https://patentimages.storage.googleapis.com/4c/1f/f8/2bee54dbfacd49/US09041239-20150526-D00009.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/3c/d8/7f/afccc62684b170/US09041239-20150526-D00010.png",
+                    "full": "https://patentimages.storage.googleapis.com/91/f4/5d/7670de6641c118/US09041239-20150526-D00010.png"
+                }
+            ],
+            "country_status": {
+                "WO": "ACTIVE",
+                "US": "ACTIVE"
+            }
+        },
+        {
+            "position": 17,
+            "rank": 16,
+            "patent_id": "patent/CA2666269C/en",
+            "patent_link": "https://patents.google.com/patent/CA2666269C/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2666269C%2Fen",
+            "title": "Apparatus and method for increasing energy capture in a wind turbine",
+            "snippet": "13. The wind turbine of claim 10, wherein the one or more sensors are arranged and disposed on or in close proximity to the wind turbine. 14. The wind turbine of claim 10, wherein the control system is selectively configured in response to an external requirement. 15. A wind plant comprising: a",
+            "priority_date": "2008-05-29",
+            "filing_date": "2009-05-21",
+            "grant_date": "2015-01-13",
+            "publication_date": "2015-01-13",
+            "inventor": "Lothar Wittekind",
+            "assignee": "General Electric Company",
+            "publication_number": "CA2666269C",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/ef/b1/bd/66178e0f0858c8/CA2666269C.pdf",
+            "country_status": {
+                "EP": "ACTIVE",
+                "US": "ACTIVE",
+                "CN": "ACTIVE",
+                "JP": "ACTIVE",
+                "CA": "ACTIVE",
+                "DK": "ACTIVE"
+            }
+        },
+        {
+            "position": 18,
+            "rank": 17,
+            "patent_id": "patent/CA2734728A1/en",
+            "patent_link": "https://patents.google.com/patent/CA2734728A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2734728A1%2Fen",
+            "title": "Column structure with protected turbine",
+            "snippet": "2. The system of claim 1 wherein the columnar structure is fixed in orientation relative to a prevailing wind. 3. The system of claim 1 wherein the columnar structure bears a load in excess of the load of the turbines. 4. The system of claim 1 including a plurality of turbines mounted to the column …",
+            "priority_date": "2008-08-22",
+            "filing_date": "2009-08-21",
+            "publication_date": "2010-02-25",
+            "inventor": "John Pitre",
+            "assignee": "Natural Power Concepts, Inc.",
+            "publication_number": "CA2734728A1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/0c/91/b6/388a7ee4836e16/CA2734728A1.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "US": "NOT_ACTIVE",
+                "CN": "ACTIVE",
+                "KR": "NOT_ACTIVE",
+                "CA": "NOT_ACTIVE",
+                "GB": "NOT_ACTIVE",
+                "TW": "UNKNOWN"
+            }
+        },
+        {
+            "position": 19,
+            "rank": 18,
+            "patent_id": "patent/WO2014200622A1/en",
+            "patent_link": "https://patents.google.com/patent/WO2014200622A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014200622A1%2Fen",
+            "title": "Run-of-the-river or ocean current turbine",
+            "snippet": "6. The w ter turbine of claim 1 FURTHER CHARACTERIZED BY a biasing means connected to the hatch for covering the waterwheel and the hatch having a lip, the water turbine having a slanted block for directing water flow toward the hatch lip, the rate of water flow, tending to move the hatch Sip and …",
+            "priority_date": "2013-06-12",
+            "filing_date": "2014-04-25",
+            "publication_date": "2014-12-18",
+            "inventor": "Kyung Soo Han",
+            "assignee": "Differential Dynamics Corporation",
+            "publication_number": "WO2014200622A1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/a7/dc/85/502705fbd403b3/WO2014200622A1.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "EP": "ACTIVE",
+                "CN": "ACTIVE",
+                "JP": "ACTIVE",
+                "KR": "ACTIVE"
+            }
+        },
+        {
+            "position": 20,
+            "rank": 19,
+            "patent_id": "patent/EP2531717A2/en",
+            "patent_link": "https://patents.google.com/patent/EP2531717A2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2531717A2%2Fen",
+            "title": "A bidirectional water turbine",
+            "snippet": "Claims 1 . A bidirectional water turbine comprising: an upstream rotor and a downstream rotor, wherein the upstream rotor and downstream rotor are contra-rotating and each rotor comprises a plurality of blades, the blades of the upstream and downstream rotors having substantially the same camber.",
+            "priority_date": "2010-02-05",
+            "filing_date": "2011-01-20",
+            "publication_date": "2012-12-12",
+            "inventor": "Adam Philip Chir",
+            "assignee": "Rolls-Royce Plc.",
+            "publication_number": "EP2531717A2",
+            "language": "en",
+            "country_status": {
+                "WO": "ACTIVE",
+                "EP": "ACTIVE",
+                "US": "ACTIVE",
+                "KR": "ACTIVE",
+                "CA": "ACTIVE",
+                "GB": "ACTIVE"
+            }
+        },
+        {
+            "position": 21,
+            "rank": 20,
+            "patent_id": "patent/GB2546252A/en",
+            "patent_link": "https://patents.google.com/patent/GB2546252A/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2546252A%2Fen",
+            "title": "Floating wind turbine",
+            "snippet": "CLAIMS: 1. A floating wind turbine for providing electrical energy to a power consumer, the floating wind turbine comprising: a generator for generating electrical energy for the power consumer from wind energy, and an energy storage device for providing eiectricaJ energy for the power consumer. 2. …",
+            "priority_date": "2016-01-06",
+            "filing_date": "2016-01-06",
+            "publication_date": "2017-07-19",
+            "inventor": "Benoni Hindmarch Martin",
+            "assignee": "Statoil Petroleum As",
+            "publication_number": "GB2546252A",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/bf/90/d4/f087f197fb616e/GB2546252A.pdf",
+            "country_status": {
+                "GB": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 22,
+            "rank": 21,
+            "patent_id": "patent/WO2011061558A1/en",
+            "patent_link": "https://patents.google.com/patent/WO2011061558A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2011061558A1%2Fen",
+            "title": "Omnidirectional wind turbine for power generation",
+            "snippet": "The objective is for a vertical wind turbine which due to the inducer and nozzle ring can operate in winds which vary in direction and speed. The large cross sectional area of the inducer makes it possible to make the turbine smaller due to the inducer and nozzle ring increasing the wind speed by …",
+            "priority_date": "2009-11-18",
+            "filing_date": "2009-11-18",
+            "publication_date": "2011-05-26",
+            "inventor": "Vimal Perera",
+            "assignee": "Vimal Perera",
+            "publication_number": "WO2011061558A1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/d6/fa/3d/0fbf2b2d1402bf/WO2011061558A1.pdf",
+            "country_status": {
+                "WO": "ACTIVE"
+            }
+        },
+        {
+            "position": 23,
+            "rank": 22,
+            "patent_id": "patent/US20140072428A1/en",
+            "patent_link": "https://patents.google.com/patent/US20140072428A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140072428A1%2Fen",
+            "title": "Wind turbine system with inflatable rotor assembly",
+            "snippet": "2 . A wind turbine assembly according to claim 1 wherein the inflatable rotor assembly comprises a shaft having at least two inflatable blades attached thereto. 3 . A wind turbine assembly according to claim 2 wherein the shaft is oriented vertically. 4 . A wind turbine assembly according to claim 2",
+            "priority_date": "2012-09-07",
+            "filing_date": "2013-09-09",
+            "publication_date": "2014-03-13",
+            "inventor": "Paul A. Chambers",
+            "assignee": "Technical Products, Inc.",
+            "publication_number": "US20140072428A1",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/83/ae/6c/52deb50ab7435a/US20140072428A1-20140313-D00000.png",
+            "pdf": "https://patentimages.storage.googleapis.com/87/b6/b9/133537e1415943/US20140072428A1.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/6f/69/68/f5d1005bb5d5a9/US20140072428A1-20140313-D00000.png",
+                    "full": "https://patentimages.storage.googleapis.com/cf/2d/a2/903fe4d6eb7c81/US20140072428A1-20140313-D00000.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/14/52/f7/e0325deb629430/US20140072428A1-20140313-D00001.png",
+                    "full": "https://patentimages.storage.googleapis.com/76/12/84/c94b78ed49d9fc/US20140072428A1-20140313-D00001.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/19/20/dd/30060bb9c88251/US20140072428A1-20140313-D00002.png",
+                    "full": "https://patentimages.storage.googleapis.com/36/04/ea/3599f0f265500e/US20140072428A1-20140313-D00002.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/fe/7d/6e/f95dcb6faad46a/US20140072428A1-20140313-D00003.png",
+                    "full": "https://patentimages.storage.googleapis.com/46/9e/2e/845b0df51ef4cb/US20140072428A1-20140313-D00003.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/60/4c/5c/4b35b75a49c405/US20140072428A1-20140313-D00004.png",
+                    "full": "https://patentimages.storage.googleapis.com/9d/d6/6e/50842dc374a3da/US20140072428A1-20140313-D00004.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/bb/9d/be/83625e925d7415/US20140072428A1-20140313-D00005.png",
+                    "full": "https://patentimages.storage.googleapis.com/86/1a/0a/3fc675fdaeeb61/US20140072428A1-20140313-D00005.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/70/ad/02/856624380466fb/US20140072428A1-20140313-D00006.png",
+                    "full": "https://patentimages.storage.googleapis.com/77/26/3d/3b23067d360209/US20140072428A1-20140313-D00006.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/77/a0/65/7a3db31b276417/US20140072428A1-20140313-D00007.png",
+                    "full": "https://patentimages.storage.googleapis.com/6a/1d/41/5ddb07affd36c1/US20140072428A1-20140313-D00007.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/67/91/b1/e24c725b982dbe/US20140072428A1-20140313-D00008.png",
+                    "full": "https://patentimages.storage.googleapis.com/8e/35/34/8d10dd6174b296/US20140072428A1-20140313-D00008.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/dc/3b/b9/19c72298a68aeb/US20140072428A1-20140313-D00009.png",
+                    "full": "https://patentimages.storage.googleapis.com/11/4e/df/597ad035d4b2e5/US20140072428A1-20140313-D00009.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/35/83/5e/246e5f4ab10414/US20140072428A1-20140313-D00010.png",
+                    "full": "https://patentimages.storage.googleapis.com/d3/71/cc/644f4fd1f77456/US20140072428A1-20140313-D00010.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/3c/0d/f9/a108488258ff6d/US20140072428A1-20140313-D00011.png",
+                    "full": "https://patentimages.storage.googleapis.com/cb/69/64/5d6badcc6e1f77/US20140072428A1-20140313-D00011.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/0a/99/04/1920d1bd6a4e46/US20140072428A1-20140313-D00012.png",
+                    "full": "https://patentimages.storage.googleapis.com/84/3c/90/a7af03735080aa/US20140072428A1-20140313-D00012.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/e0/42/db/1015c4666f3d70/US20140072428A1-20140313-D00013.png",
+                    "full": "https://patentimages.storage.googleapis.com/3c/9e/34/7911b48a26302f/US20140072428A1-20140313-D00013.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/3a/31/be/a999d2aea9238d/US20140072428A1-20140313-D00014.png",
+                    "full": "https://patentimages.storage.googleapis.com/90/4d/f5/8183b97dc6188b/US20140072428A1-20140313-D00014.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/06/2a/3a/128318e92c198c/US20140072428A1-20140313-D00015.png",
+                    "full": "https://patentimages.storage.googleapis.com/00/89/9e/ae515121923b6c/US20140072428A1-20140313-D00015.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/9f/37/f9/b4f9643df3786e/US20140072428A1-20140313-D00016.png",
+                    "full": "https://patentimages.storage.googleapis.com/23/26/6f/1e3ba6d4cbe5c6/US20140072428A1-20140313-D00016.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/a4/b5/db/6c8ae70b0aa5e0/US20140072428A1-20140313-D00017.png",
+                    "full": "https://patentimages.storage.googleapis.com/51/bf/4e/db9cdf68b5cae7/US20140072428A1-20140313-D00017.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/2e/b8/6e/530b4b2bb79a47/US20140072428A1-20140313-D00018.png",
+                    "full": "https://patentimages.storage.googleapis.com/d6/c7/6f/c8ad40611ce7f8/US20140072428A1-20140313-D00018.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/23/53/42/483c4911300d68/US20140072428A1-20140313-D00019.png",
+                    "full": "https://patentimages.storage.googleapis.com/3e/3f/bb/91dc2c1f6aaabc/US20140072428A1-20140313-D00019.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/c8/33/4e/bd018e0e48fa68/US20140072428A1-20140313-D00020.png",
+                    "full": "https://patentimages.storage.googleapis.com/51/a4/bd/5a6eac4cdd6985/US20140072428A1-20140313-D00020.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/7d/ec/c7/f4f2fc50d4c8a8/US20140072428A1-20140313-D00021.png",
+                    "full": "https://patentimages.storage.googleapis.com/9d/37/55/b8fb7cf9be49fe/US20140072428A1-20140313-D00021.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/83/2a/f5/4c4802fd1add26/US20140072428A1-20140313-D00022.png",
+                    "full": "https://patentimages.storage.googleapis.com/3c/d2/89/18c9f9886b3e92/US20140072428A1-20140313-D00022.png"
+                }
+            ],
+            "country_status": {
+                "US": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 24,
+            "rank": 23,
+            "patent_id": "patent/NZ548877A/en",
+            "patent_link": "https://patents.google.com/patent/NZ548877A/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FNZ548877A%2Fen",
+            "title": "Blade for fluid turbine with free end having arcuate face and aerodynamic fin …",
+            "snippet": "A blade for a fluid turbine has a first end for connection to a rotor of a turbine and a second free end having an arcuate face and an aerodynamic fin formed on a back surface extending the full distance of the second free end.",
+            "priority_date": "2006-02-01",
+            "filing_date": "2006-08-01",
+            "publication_date": "2008-03-28",
+            "inventor": "Garry Emshey",
+            "assignee": "Garry Emshey",
+            "publication_number": "NZ548877A",
+            "language": "en",
+            "country_status": {
+                "CA": "ACTIVE",
+                "NZ": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 25,
+            "rank": 24,
+            "patent_id": "patent/AU2007303956B2/en",
+            "patent_link": "https://patents.google.com/patent/AU2007303956B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2007303956B2%2Fen",
+            "title": "Wind turbine with blade pitch control to compensate for wind shear and wind …",
+            "snippet": "A wind turbine rotor load control. The pitch of the blades is controlled in a conventional manner by a command component, a rotor blade pitch command signal. A storage contains stored values of a set of moments for various wind speeds. A moment sensor provides a moment signal output. An …",
+            "priority_date": "2006-10-02",
+            "filing_date": "2007-03-15",
+            "grant_date": "2011-12-22",
+            "publication_date": "2011-12-22",
+            "inventor": "William Erdman",
+            "assignee": "Clipper Windpower, Inc.",
+            "publication_number": "AU2007303956B2",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/bd/ef/17/2b08a36c9ed772/AU2007303956B2.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "EP": "NOT_ACTIVE",
+                "US": "NOT_ACTIVE",
+                "CN": "ACTIVE",
+                "JP": "ACTIVE",
+                "KR": "NOT_ACTIVE",
+                "AU": "ACTIVE",
+                "BR": "NOT_ACTIVE",
+                "CA": "NOT_ACTIVE",
+                "MX": "NOT_ACTIVE",
+                "NO": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 26,
+            "rank": 25,
+            "patent_id": "patent/WO2014134032A1/en",
+            "patent_link": "https://patents.google.com/patent/WO2014134032A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014134032A1%2Fen",
+            "title": "Wind turbine system using wind turbine shroud",
+            "snippet": "5. The wind power generator according to claim 1 , wherein the central side wall portion of the cylindrical wind tunnel body comprises: an air horn member narrowing in the wind flowing direction, the air horn member being formed on an intake opening edge of the inlet of the wind tunnel body; a …",
+            "priority_date": "2013-02-26",
+            "filing_date": "2014-02-25",
+            "publication_date": "2014-09-04",
+            "inventor": "Mark Cironi",
+            "assignee": "Green Energy Technologies, Llc",
+            "publication_number": "WO2014134032A1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/27/fb/8b/965e8686374732/WO2014134032A1.pdf",
+            "country_status": {
+                "WO": "ACTIVE"
+            }
+        },
+        {
+            "position": 27,
+            "rank": 26,
+            "patent_id": "patent/US20110158787A1/en",
+            "patent_link": "https://patents.google.com/patent/US20110158787A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110158787A1%2Fen",
+            "title": "Wind turbine",
+            "snippet": "4 . The system of claim 1 , wherein in a first operational mode the first turbine assembly is configured to spin in a first direction around the first axis, and wherein in the first operational mode the second turbine is configured to spin in a second direction around the first axis. 5 . The system of",
+            "priority_date": "2010-03-15",
+            "filing_date": "2011-03-03",
+            "publication_date": "2011-06-30",
+            "inventor": "II Andrew Carlton Thacker",
+            "assignee": "Thacker Ii Andrew Carlton",
+            "publication_number": "US20110158787A1",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/97/5d/12/4feca47435a4db/US20110158787A1-20110630-D00000.png",
+            "pdf": "https://patentimages.storage.googleapis.com/ea/c0/2b/a8c9a3036e9780/US20110158787A1.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/0c/00/aa/a07573275d0d5c/US20110158787A1-20110630-D00000.png",
+                    "full": "https://patentimages.storage.googleapis.com/f8/86/8c/1c7f2988fd04d0/US20110158787A1-20110630-D00000.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/c6/73/e0/1554c1f4d38227/US20110158787A1-20110630-D00001.png",
+                    "full": "https://patentimages.storage.googleapis.com/d8/ae/07/eee089dc0e33d4/US20110158787A1-20110630-D00001.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/59/d6/cd/1683fcf2754c7d/US20110158787A1-20110630-D00002.png",
+                    "full": "https://patentimages.storage.googleapis.com/94/b4/81/d3d43c1067ad37/US20110158787A1-20110630-D00002.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/d0/44/75/57a4c25f753d73/US20110158787A1-20110630-D00003.png",
+                    "full": "https://patentimages.storage.googleapis.com/f2/8c/04/786bf5337d9e2e/US20110158787A1-20110630-D00003.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/5c/ab/f3/83828f59c38937/US20110158787A1-20110630-D00004.png",
+                    "full": "https://patentimages.storage.googleapis.com/4a/b9/73/1b8a0090df2f65/US20110158787A1-20110630-D00004.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/fc/b8/65/521ccb0a932e56/US20110158787A1-20110630-D00005.png",
+                    "full": "https://patentimages.storage.googleapis.com/22/c2/53/b9d237a0cd5e9e/US20110158787A1-20110630-D00005.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/ed/af/0c/e9ce3ea569ee88/US20110158787A1-20110630-D00006.png",
+                    "full": "https://patentimages.storage.googleapis.com/65/0d/36/b7a95d4002fa1c/US20110158787A1-20110630-D00006.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/c1/92/bd/98d86860983ef6/US20110158787A1-20110630-D00007.png",
+                    "full": "https://patentimages.storage.googleapis.com/91/6c/9b/ed337577f5e732/US20110158787A1-20110630-D00007.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/89/cb/2d/9b4a385a401e49/US20110158787A1-20110630-D00008.png",
+                    "full": "https://patentimages.storage.googleapis.com/0e/c0/72/ef33faa0a65aa1/US20110158787A1-20110630-D00008.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/e8/1d/88/545cb5d3f2f7cd/US20110158787A1-20110630-D00009.png",
+                    "full": "https://patentimages.storage.googleapis.com/6d/6a/14/7f0a355b07bf00/US20110158787A1-20110630-D00009.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/82/2f/ca/a17ef6aa979d52/US20110158787A1-20110630-D00010.png",
+                    "full": "https://patentimages.storage.googleapis.com/d2/04/ef/75d2138cd43a16/US20110158787A1-20110630-D00010.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/8a/e4/e2/20073b44a2110e/US20110158787A1-20110630-D00011.png",
+                    "full": "https://patentimages.storage.googleapis.com/3f/d7/45/959ab59861c5a8/US20110158787A1-20110630-D00011.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/1d/ce/8f/564003c535cca3/US20110158787A1-20110630-D00012.png",
+                    "full": "https://patentimages.storage.googleapis.com/59/18/07/5074ff91b79ffe/US20110158787A1-20110630-D00012.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/af/c2/5a/9ac84ff1ac79bd/US20110158787A1-20110630-D00013.png",
+                    "full": "https://patentimages.storage.googleapis.com/18/72/af/e3c22fafb0a674/US20110158787A1-20110630-D00013.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/0b/90/5d/a780b596b99978/US20110158787A1-20110630-D00014.png",
+                    "full": "https://patentimages.storage.googleapis.com/fa/48/8e/e9396bbb9e031b/US20110158787A1-20110630-D00014.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/77/6c/26/d023b0ff56591a/US20110158787A1-20110630-D00015.png",
+                    "full": "https://patentimages.storage.googleapis.com/91/03/a4/e969af32969a28/US20110158787A1-20110630-D00015.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/09/43/93/c225afa9818ee5/US20110158787A1-20110630-D00016.png",
+                    "full": "https://patentimages.storage.googleapis.com/ba/ed/61/9872d4fb416d41/US20110158787A1-20110630-D00016.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/a5/bb/5d/77023f267a3021/US20110158787A1-20110630-D00017.png",
+                    "full": "https://patentimages.storage.googleapis.com/9b/31/14/14fe1c0764b054/US20110158787A1-20110630-D00017.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/6e/ae/82/d7e5fd687b13ca/US20110158787A1-20110630-D00018.png",
+                    "full": "https://patentimages.storage.googleapis.com/03/89/e9/836188355aec79/US20110158787A1-20110630-D00018.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/04/56/5e/70920502975164/US20110158787A1-20110630-D00019.png",
+                    "full": "https://patentimages.storage.googleapis.com/b9/64/82/0b4df3f864dc8b/US20110158787A1-20110630-D00019.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/f2/20/b1/5a956ab10ae3da/US20110158787A1-20110630-D00020.png",
+                    "full": "https://patentimages.storage.googleapis.com/73/b9/49/de81f547112a2c/US20110158787A1-20110630-D00020.png"
+                }
+            ],
+            "country_status": {
+                "WO": "ACTIVE",
+                "US": "ACTIVE"
+            }
+        },
+        {
+            "position": 28,
+            "rank": 27,
+            "patent_id": "patent/WO2007017629A1/en",
+            "patent_link": "https://patents.google.com/patent/WO2007017629A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2007017629A1%2Fen",
+            "title": "Turbine with coaxial sets of blades",
+            "snippet": "17. A turbine as claimed in any of claims 14 to 16 wherein the at least two sets of blades are arranged so that one set cannot eclipse another. 18. A turbine as claimed in claim 17 wherein one set has more blades than the other. 19. A turbine as claimed in claim 18 wherein one set has an even …",
+            "priority_date": "2005-08-05",
+            "filing_date": "2006-08-01",
+            "publication_date": "2007-02-15",
+            "inventor": "Joe Clarke",
+            "assignee": "University Of Strathclyde",
+            "publication_number": "WO2007017629A1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/6d/9b/74/759a291b9bdca9/WO2007017629A1.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "EP": "ACTIVE",
+                "US": "ACTIVE",
+                "KR": "ACTIVE",
+                "ES": "ACTIVE",
+                "GB": "NOT_ACTIVE",
+                "NO": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 29,
+            "rank": 28,
+            "patent_id": "patent/WO2012169991A1/en",
+            "patent_link": "https://patents.google.com/patent/WO2012169991A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012169991A1%2Fen",
+            "title": "Hybrid water pressure energy accumulating wind turbine and method",
+            "snippet": "The combined hybrid water pressure energy accumulating and a wind turbine tower assembly according to Claim 2, wherein said tower comprising commercial or residential building. 11. The combined hybrid water pressure energy accumulating and a wind turbine tower assembly according to Claim 3, wherein …",
+            "priority_date": "2011-06-06",
+            "filing_date": "2011-06-06",
+            "publication_date": "2012-12-13",
+            "inventor": "Kamen George KAMENOV",
+            "assignee": "Kamenov Kamen George",
+            "publication_number": "WO2012169991A1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/45/98/b7/bd1cd5721668db/WO2012169991A1.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "CN": "ACTIVE"
+            }
+        },
+        {
+            "position": 30,
+            "rank": 29,
+            "patent_id": "patent/WO2016030709A1/en",
+            "patent_link": "https://patents.google.com/patent/WO2016030709A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2016030709A1%2Fen",
+            "title": "Modified drag based wind turbine design with sails",
+            "snippet": "CLAIMS What is claimed is: 1. A process of double effect enhancement for a drag based turbine wherein the double effect enhancement is obtained by reducing a negative torque and increasing a positive torque. 2. A process of claim 1 , wherein the double effect enhancement is obtained further by …",
+            "priority_date": "2014-08-23",
+            "filing_date": "2014-08-23",
+            "publication_date": "2016-03-03",
+            "inventor": "Hassan Zohair Hassan Ahmed",
+            "assignee": "Alfaisal University",
+            "publication_number": "WO2016030709A1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/56/8f/9b/b85312c5c88667/WO2016030709A1.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "US": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 31,
+            "rank": 30,
+            "patent_id": "patent/WO2011007366A1/en",
+            "patent_link": "https://patents.google.com/patent/WO2011007366A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2011007366A1%2Fen",
+            "title": "An improved turbine and method thereof",
+            "snippet": "The present disclosure relates to an improved and more efficient turbine deployed in the generation of thermal energy. The improved turbine comprises aerodynamic blades and supersonic nozzles to generate impulse and reaction forces which results into higher efficiency.",
+            "priority_date": "2009-07-17",
+            "filing_date": "2010-06-24",
+            "publication_date": "2011-01-20",
+            "inventor": "Sundaralingam Manoharan",
+            "assignee": "Vaigunth Ener Tek (P) Ltd.",
+            "publication_number": "WO2011007366A1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/b4/9a/0f/7e03aab9019fbb/WO2011007366A1.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "US": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 32,
+            "rank": 31,
+            "patent_id": "patent/EP3830923A1/en",
+            "patent_link": "https://patents.google.com/patent/EP3830923A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3830923A1%2Fen",
+            "title": "Power plant with wind turbine",
+            "snippet": "24. A turbine as claimed in claim 23, wherein all of the component parts of the turbine are sized to fit, in combination, in exactly one intermodal shipping container. 25. A turbine for generating energy from a fluid flow, in particular a wind turbine for generating energy from wind, comprising: a …",
+            "priority_date": "2018-07-27",
+            "filing_date": "2019-07-24",
+            "publication_date": "2021-06-09",
+            "inventor": "Robert Ellis",
+            "assignee": "Cross-Flow Energy Company Limited",
+            "publication_number": "EP3830923A1",
+            "language": "en",
+            "country_status": {
+                "WO": "UNKNOWN",
+                "EP": "NOT_ACTIVE",
+                "GB": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 33,
+            "rank": 32,
+            "patent_id": "patent/CA2734748A1/en",
+            "patent_link": "https://patents.google.com/patent/CA2734748A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2734748A1%2Fen",
+            "title": "Folding blade turbine",
+            "snippet": "12. A turbine as in claim 1 wherein the actuator is operable to place the blades in any of a plurality of positions between the first and second positions while the drive shaft is rotating. 13. A turbine as in claim 1 wherein the actuator is operable to move the airfoils toward the first position …",
+            "priority_date": "2008-08-22",
+            "filing_date": "2009-08-21",
+            "publication_date": "2010-02-25",
+            "inventor": "John Pitre",
+            "assignee": "Natural Power Concepts, Inc.",
+            "publication_number": "CA2734748A1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/cf/6f/1c/1784eb8e57fb42/CA2734748A1.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "US": "NOT_ACTIVE",
+                "CN": "ACTIVE",
+                "KR": "NOT_ACTIVE",
+                "CA": "NOT_ACTIVE",
+                "GB": "ACTIVE"
+            }
+        },
+        {
+            "position": 34,
+            "rank": 33,
+            "patent_id": "patent/GB2457773A/en",
+            "patent_link": "https://patents.google.com/patent/GB2457773A/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2457773A%2Fen",
+            "title": "Double walled tower for shaftless vertical axis wind turbine",
+            "snippet": "15. The shaftiess wind turbine of any preceding claim wherein the wind engaging blades are lift-type rotor blades, and the rotor arms further comprises a drag type rotor blade located adjacent the core. 16. The shafiless wind turbine of any preceding claim wherein the rotor comprises a tubular …",
+            "priority_date": "2008-02-29",
+            "filing_date": "2008-12-17",
+            "publication_date": "2009-09-02",
+            "inventor": "Gordon Ying Sheung Wu",
+            "assignee": "Hopewell Wind Power Ltd",
+            "publication_number": "GB2457773A",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/26/d5/49/10e60eccf9fcc0/GB2457773A.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "EP": "NOT_ACTIVE",
+                "US": "NOT_ACTIVE",
+                "DK": "NOT_ACTIVE",
+                "GB": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 35,
+            "rank": 34,
+            "patent_id": "patent/WO2009068950A2/en",
+            "patent_link": "https://patents.google.com/patent/WO2009068950A2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2009068950A2%2Fen",
+            "title": "Cross fluid-flow axis turbine",
+            "snippet": "A cross fluid-flow axis turbine (CFAT) for converting the energy of a flowing fluid to rotational energy, said CFAT being of the type having an axle rotatably mounted on a frame so that the axle rotates about an axis of rotation in a direction of rotation, said CFAT comprising: a. at least three …",
+            "priority_date": "2007-11-29",
+            "filing_date": "2008-11-10",
+            "publication_date": "2009-06-04",
+            "assignee": "Phi, Tran",
+            "publication_number": "WO2009068950A2",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/25/94/e1/252070e4bd9cc9/WO2009068950A2.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "US": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 36,
+            "rank": 35,
+            "patent_id": "patent/US20090200808A1/en",
+            "patent_link": "https://patents.google.com/patent/US20090200808A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090200808A1%2Fen",
+            "title": "Pole-mountable wind turbine support system",
+            "snippet": "16 . The pole-mountable wind turbine support system of claim 15 , wherein a load of said plurality of loads comprises at least one parking lot solar power system acting as an electrical load when solar power is not available. 17 . The pole-mountable wind turbine support system of claim 15 , wherein …",
+            "priority_date": "2006-02-25",
+            "filing_date": "2009-03-23",
+            "publication_date": "2009-08-13",
+            "inventor": "Daniel W. Parmley, Sr.",
+            "assignee": "Parmley Sr Daniel W",
+            "publication_number": "US20090200808A1",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/2f/58/95/06790a34a8fb35/US20090200808A1-20090813-D00000.png",
+            "pdf": "https://patentimages.storage.googleapis.com/d6/75/08/9be443b05da228/US20090200808A1.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/c4/92/aa/5b2d8c8ca9a2d5/US20090200808A1-20090813-D00000.png",
+                    "full": "https://patentimages.storage.googleapis.com/84/50/15/59a2e0f55a0ad5/US20090200808A1-20090813-D00000.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/d6/b0/93/51d7b6173c21dd/US20090200808A1-20090813-D00001.png",
+                    "full": "https://patentimages.storage.googleapis.com/c0/35/5e/1fed168d8456b4/US20090200808A1-20090813-D00001.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/76/a1/52/392cce9b17039b/US20090200808A1-20090813-D00002.png",
+                    "full": "https://patentimages.storage.googleapis.com/8b/86/9e/da90c179b0c830/US20090200808A1-20090813-D00002.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/ca/9f/7d/bb8a666a9905bc/US20090200808A1-20090813-D00003.png",
+                    "full": "https://patentimages.storage.googleapis.com/2d/1e/95/a6d5b6e1bec9f8/US20090200808A1-20090813-D00003.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/58/33/ed/9701906774abf7/US20090200808A1-20090813-D00004.png",
+                    "full": "https://patentimages.storage.googleapis.com/99/f6/79/d85a0aeabdc2d9/US20090200808A1-20090813-D00004.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/a8/f7/2f/729df356e38faa/US20090200808A1-20090813-D00005.png",
+                    "full": "https://patentimages.storage.googleapis.com/e2/a8/10/f4947d881b8568/US20090200808A1-20090813-D00005.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/28/20/2c/957f383a416216/US20090200808A1-20090813-D00006.png",
+                    "full": "https://patentimages.storage.googleapis.com/f5/b8/ab/272f9b5fdfa5dd/US20090200808A1-20090813-D00006.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/e8/2a/f3/8b28909ba12d82/US20090200808A1-20090813-D00007.png",
+                    "full": "https://patentimages.storage.googleapis.com/52/76/64/04d95a5d748eea/US20090200808A1-20090813-D00007.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/ec/c5/95/f45e19a68d3d57/US20090200808A1-20090813-D00008.png",
+                    "full": "https://patentimages.storage.googleapis.com/06/0f/7d/a989da673a3858/US20090200808A1-20090813-D00008.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/99/37/60/ba211049d20af4/US20090200808A1-20090813-D00009.png",
+                    "full": "https://patentimages.storage.googleapis.com/5e/d1/77/d2ed9953fa3170/US20090200808A1-20090813-D00009.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/c3/ce/ee/3a07a4a10c47a2/US20090200808A1-20090813-D00010.png",
+                    "full": "https://patentimages.storage.googleapis.com/ef/8f/6e/d57d69c273744a/US20090200808A1-20090813-D00010.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/c6/32/bd/5c48e45f70aec7/US20090200808A1-20090813-D00011.png",
+                    "full": "https://patentimages.storage.googleapis.com/40/02/0b/e331456107c9fc/US20090200808A1-20090813-D00011.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/46/ed/c5/480e2f45ede944/US20090200808A1-20090813-D00012.png",
+                    "full": "https://patentimages.storage.googleapis.com/ad/c0/4b/cb8bcaca75f74a/US20090200808A1-20090813-D00012.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/89/1d/0e/e0f5660ba652e8/US20090200808A1-20090813-D00013.png",
+                    "full": "https://patentimages.storage.googleapis.com/b4/b4/84/292cee3105d004/US20090200808A1-20090813-D00013.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/27/45/e8/26de8ece453cb7/US20090200808A1-20090813-D00014.png",
+                    "full": "https://patentimages.storage.googleapis.com/7e/1b/a7/21b4432554447b/US20090200808A1-20090813-D00014.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/d4/40/11/dc52bfdc660d36/US20090200808A1-20090813-D00015.png",
+                    "full": "https://patentimages.storage.googleapis.com/8f/c7/13/7fb1fe53179a62/US20090200808A1-20090813-D00015.png"
+                }
+            ],
+            "country_status": {
+                "US": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 37,
+            "rank": 36,
+            "patent_id": "patent/EP2531718A2/en",
+            "patent_link": "https://patents.google.com/patent/EP2531718A2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2531718A2%2Fen",
+            "title": "A bidirectional water turbine",
+            "snippet": "7. A bidirectional water turbine as claimed in claim 6, wherein the hubs are each supported by a plurality of hydrodynamically profiled struts which are angled away from their respective rotor. 8. A bidirectional water turbine as claimed in claim 7, wherein the struts are located on an upstream …",
+            "priority_date": "2010-02-05",
+            "filing_date": "2011-01-20",
+            "publication_date": "2012-12-12",
+            "inventor": "Adam Philip Chir",
+            "assignee": "Rolls-Royce plc",
+            "publication_number": "EP2531718A2",
+            "language": "en",
+            "country_status": {
+                "WO": "ACTIVE",
+                "EP": "ACTIVE",
+                "US": "NOT_ACTIVE",
+                "KR": "NOT_ACTIVE",
+                "CA": "ACTIVE",
+                "GB": "ACTIVE"
+            }
+        },
+        {
+            "position": 38,
+            "rank": 37,
+            "patent_id": "patent/US8167533B2/en",
+            "patent_link": "https://patents.google.com/patent/US8167533B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8167533B2%2Fen",
+            "title": "Wind energy system",
+            "snippet": "10. The system of claim 1 further comprising means for orienting the wind energy system so that it faces into oncoming wind. 11. The system of claim 1 wherein the one or more turbines is selected from the group: Darrieus vertical axis wind turbine and Savonius vertical axis wind turbine. 12. A wind …",
+            "priority_date": "2009-10-29",
+            "filing_date": "2010-04-30",
+            "grant_date": "2012-05-01",
+            "publication_date": "2012-05-01",
+            "inventor": "Dan Lucy",
+            "assignee": "The Green Electric Company",
+            "publication_number": "US8167533B2",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/82/4d/1a/801d77ecc0d833/US08167533-20120501-D00000.png",
+            "pdf": "https://patentimages.storage.googleapis.com/85/72/27/803c1478f3ee7f/US8167533.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/37/9d/2b/b35e2dac44e4d4/US08167533-20120501-D00000.png",
+                    "full": "https://patentimages.storage.googleapis.com/28/e2/d1/234dd8709c77ff/US08167533-20120501-D00000.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/13/b9/26/43608c37942b95/US08167533-20120501-D00001.png",
+                    "full": "https://patentimages.storage.googleapis.com/c2/63/76/30a951503a5b64/US08167533-20120501-D00001.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/1c/a4/28/f141322da5fb3e/US08167533-20120501-D00002.png",
+                    "full": "https://patentimages.storage.googleapis.com/ba/fa/eb/c9ced55897a44c/US08167533-20120501-D00002.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/73/44/36/80c9b6fdfde536/US08167533-20120501-D00003.png",
+                    "full": "https://patentimages.storage.googleapis.com/57/dc/e9/0e09912c68e22c/US08167533-20120501-D00003.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/5c/7f/ac/0e58325df61b06/US08167533-20120501-D00004.png",
+                    "full": "https://patentimages.storage.googleapis.com/16/9e/0c/3027ecb8ec5be7/US08167533-20120501-D00004.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/2e/f7/bc/12125e58b3bb59/US08167533-20120501-D00005.png",
+                    "full": "https://patentimages.storage.googleapis.com/3f/0c/99/b53f49f08fef06/US08167533-20120501-D00005.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/96/66/3e/9a0c153517edf4/US08167533-20120501-D00006.png",
+                    "full": "https://patentimages.storage.googleapis.com/d1/5d/c7/9d35c567385707/US08167533-20120501-D00006.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/21/a7/6b/af7049ff9d5902/US08167533-20120501-D00007.png",
+                    "full": "https://patentimages.storage.googleapis.com/7d/5f/89/f03724f13124fb/US08167533-20120501-D00007.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/8c/96/ba/abca4c8218af58/US08167533-20120501-D00008.png",
+                    "full": "https://patentimages.storage.googleapis.com/20/fb/b3/d002493cec8714/US08167533-20120501-D00008.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/1e/37/e8/79d8a0db7b9962/US08167533-20120501-D00009.png",
+                    "full": "https://patentimages.storage.googleapis.com/ec/3b/96/e25e8dd851842e/US08167533-20120501-D00009.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/ef/17/27/34295468d00f36/US08167533-20120501-D00010.png",
+                    "full": "https://patentimages.storage.googleapis.com/9b/db/e7/a56eb4f3298fde/US08167533-20120501-D00010.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/75/5c/23/bb0b85bbb6f9fd/US08167533-20120501-D00011.png",
+                    "full": "https://patentimages.storage.googleapis.com/2f/ca/da/5b8c195947cd4d/US08167533-20120501-D00011.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/5a/4d/d5/28e1f1107a6f7b/US08167533-20120501-D00012.png",
+                    "full": "https://patentimages.storage.googleapis.com/1a/8f/97/6d0debbf4f3a12/US08167533-20120501-D00012.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/c1/fa/18/532eeaf67a1b64/US08167533-20120501-D00013.png",
+                    "full": "https://patentimages.storage.googleapis.com/67/dc/3c/8eac92fa702049/US08167533-20120501-D00013.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/7b/a7/ca/2d9e73594e5bc2/US08167533-20120501-D00014.png",
+                    "full": "https://patentimages.storage.googleapis.com/df/f6/1c/fe30e16097896f/US08167533-20120501-D00014.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/fb/6a/13/80818bf43f24b6/US08167533-20120501-D00015.png",
+                    "full": "https://patentimages.storage.googleapis.com/1f/62/f0/37aa577412b58f/US08167533-20120501-D00015.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/c6/d2/97/5a8b7a2a03b494/US08167533-20120501-D00016.png",
+                    "full": "https://patentimages.storage.googleapis.com/09/46/4c/4b4fb35d932f69/US08167533-20120501-D00016.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/5d/96/e2/5318a51f48c1d5/US08167533-20120501-D00017.png",
+                    "full": "https://patentimages.storage.googleapis.com/cc/21/ec/546ea263570ce5/US08167533-20120501-D00017.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/6f/67/0c/f96136a94f3f7b/US08167533-20120501-D00018.png",
+                    "full": "https://patentimages.storage.googleapis.com/81/5e/6f/3076a2153ee168/US08167533-20120501-D00018.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/86/35/ac/26ddc43567d97a/US08167533-20120501-D00019.png",
+                    "full": "https://patentimages.storage.googleapis.com/22/0c/05/9c8e16be22e71b/US08167533-20120501-D00019.png"
+                }
+            ],
+            "country_status": {
+                "WO": "ACTIVE",
+                "EP": "NOT_ACTIVE",
+                "US": "ACTIVE",
+                "CN": "ACTIVE",
+                "CA": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 39,
+            "rank": 38,
+            "patent_id": "patent/AU2008229916A1/en",
+            "patent_link": "https://patents.google.com/patent/AU2008229916A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2008229916A1%2Fen",
+            "title": "Wind turbine geothermal heating and cooling system",
+            "snippet": "8. The wind turbine (100) according to any of the preceding claims, wherein the thermal transfer system (150) is a geothermal system. 9. The wind turbine (100) according to any of the preceding claims, wherein said thermal circuit (160) is substantially contained within the foundation (170) of said …",
+            "priority_date": "2007-10-12",
+            "filing_date": "2008-10-02",
+            "publication_date": "2009-04-30",
+            "assignee": "General Electric Company",
+            "publication_number": "AU2008229916A1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/ed/6c/6e/886ab4bce358a5/AU2008229916A1.pdf",
+            "country_status": {
+                "EP": "NOT_ACTIVE",
+                "US": "NOT_ACTIVE",
+                "CN": "ACTIVE",
+                "AU": "NOT_ACTIVE",
+                "CA": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 40,
+            "rank": 39,
+            "patent_id": "patent/SG176530A1/en",
+            "patent_link": "https://patents.google.com/patent/SG176530A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSG176530A1%2Fen",
+            "title": "Vertical axis wind turbine with speed regulation and storm protection system",
+            "snippet": "4. The wind turbine of claim 1 where the said vanes are connected to the said central rotating shaft through struts which are hinged at fixed locations to the said central rotating shaft in such a way that said vanes are positioned always parallel to the said central rotating shaft. 5. The wind …",
+            "priority_date": "2010-11-22",
+            "filing_date": "2010-11-22",
+            "publication_date": "2012-01-30",
+            "inventor": "Tarik Ozkul",
+            "assignee": "Tarik Ozkul",
+            "publication_number": "SG176530A1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/04/cf/36/1eb3af770060db/SG176530A1.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "EP": "ACTIVE",
+                "US": "ACTIVE",
+                "JP": "ACTIVE",
+                "DE": "ACTIVE",
+                "NZ": "NOT_ACTIVE",
+                "SG": "UNKNOWN",
+                "ZA": "UNKNOWN"
+            }
+        },
+        {
+            "position": 41,
+            "rank": 40,
+            "patent_id": "patent/US20110006535A1/en",
+            "patent_link": "https://patents.google.com/patent/US20110006535A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110006535A1%2Fen",
+            "title": "Clusters of small wind turbines a renewable energy technique",
+            "snippet": "10 . The wind turbine for generating electricity from wind, fluid, or air power, as recited in claim 1 , wherein said wind turbine comprises blades clustered in a 3-dimensional structure. 11 . The wind turbine for generating electricity from wind, fluid, or air power, as recited in claim 1 , wherein …",
+            "priority_date": "2009-05-28",
+            "filing_date": "2009-05-28",
+            "publication_date": "2011-01-13",
+            "inventor": "Habib Bahari",
+            "assignee": "Habib Bahari",
+            "publication_number": "US20110006535A1",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/e8/07/2b/c0c5c7f7ebc225/US20110006535A1-20110113-D00000.png",
+            "pdf": "https://patentimages.storage.googleapis.com/b8/65/d9/40234bc097ccf4/US20110006535A1.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/b2/17/87/e7913119f2fc6d/US20110006535A1-20110113-D00000.png",
+                    "full": "https://patentimages.storage.googleapis.com/cb/bb/85/9d7d1c24556ae5/US20110006535A1-20110113-D00000.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/ec/6b/6c/de920b6c32a453/US20110006535A1-20110113-D00001.png",
+                    "full": "https://patentimages.storage.googleapis.com/3a/0b/e4/08b665596f452e/US20110006535A1-20110113-D00001.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/5b/5c/5e/85bb56fa45d74f/US20110006535A1-20110113-D00002.png",
+                    "full": "https://patentimages.storage.googleapis.com/ed/92/a3/34ec14ee82056d/US20110006535A1-20110113-D00002.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/2f/2c/01/7affa6ad5cc1db/US20110006535A1-20110113-D00003.png",
+                    "full": "https://patentimages.storage.googleapis.com/4f/f5/1c/122c3818954f28/US20110006535A1-20110113-D00003.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/0b/83/6a/edffc7e41e40fc/US20110006535A1-20110113-D00004.png",
+                    "full": "https://patentimages.storage.googleapis.com/49/78/6b/342a07a85f1b7d/US20110006535A1-20110113-D00004.png"
+                }
+            ],
+            "country_status": {
+                "US": "ACTIVE"
+            }
+        },
+        {
+            "position": 42,
+            "rank": 41,
+            "patent_id": "patent/AU2010264534B2/en",
+            "patent_link": "https://patents.google.com/patent/AU2010264534B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2010264534B2%2Fen",
+            "title": "Wind turbine",
+            "snippet": "8. The wind turbine recited in claim 7, wherein each of said blades is twisted such that the 5 hub end of said blade is twisted at an angle to the central axis of an amount between 28 degrees to 49 degrees. 9. The wind turbine recited in claim 1, wherein a nose cone is provided at the front of the …",
+            "priority_date": "2009-06-22",
+            "filing_date": "2010-06-22",
+            "grant_date": "2015-07-09",
+            "publication_date": "2015-07-09",
+            "inventor": "Kean W. Stimm",
+            "assignee": "Kean W. Stimm",
+            "publication_number": "AU2010264534B2",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/1b/92/df/a5f8ff3a773914/AU2010264534B2.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "EP": "ACTIVE",
+                "CN": "ACTIVE",
+                "AU": "ACTIVE",
+                "CA": "ACTIVE",
+                "CL": "UNKNOWN",
+                "IN": "UNKNOWN",
+                "MX": "ACTIVE",
+                "NZ": "NOT_ACTIVE",
+                "RU": "ACTIVE",
+                "ZA": "UNKNOWN"
+            }
+        },
+        {
+            "position": 43,
+            "rank": 42,
+            "patent_id": "patent/ES1308832U/en",
+            "patent_link": "https://patents.google.com/patent/ES1308832U/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FES1308832U%2Fen",
+            "title": "VERTICAL WIND TURBINE",
+            "snippet": "4. The wind turbine of any one of the preceding claims, further comprising two or more additional solar panels (31, 32), fixed or close to the lower end of the rotation axis (10) that is attached to the mast ( eleven). 5. The wind turbine of claim 4, wherein said two or more additional solar panels …",
+            "priority_date": "2024-05-15",
+            "filing_date": "2024-05-15",
+            "publication_date": "2024-06-27",
+            "inventor": "Peña Irene López",
+            "assignee": "Univ Catalunya Politecnica",
+            "publication_number": "ES1308832U",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/c2/cb/19/afdc3536e01b17/ES1308832U.pdf",
+            "country_status": {
+                "ES": "ACTIVE"
+            }
+        },
+        {
+            "position": 44,
+            "rank": 43,
+            "patent_id": "patent/CA2749290A1/en",
+            "patent_link": "https://patents.google.com/patent/CA2749290A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2749290A1%2Fen",
+            "title": "Wind turbine and methods of use",
+            "snippet": "Claims: 1. A wind turbine mountable at or near an upper exterior portion of a stationary cylindrical pole, said wind turbine comprising: a current inducing rotor comprising a current inducing set of permanent magnets rotatable about said upper exterior portion of said cylindrical pole, about an axis …",
+            "priority_date": "2006-04-24",
+            "filing_date": "2007-04-20",
+            "publication_date": "2007-11-01",
+            "inventor": "Barry Ross Ireland",
+            "assignee": "Bri Energy Solutions Limited",
+            "publication_number": "CA2749290A1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/08/b5/83/1e792148c8972b/CA2749290A1.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "EP": "NOT_ACTIVE",
+                "US": "NOT_ACTIVE",
+                "CN": "ACTIVE",
+                "KR": "ACTIVE",
+                "AP": "UNKNOWN",
+                "CA": "ACTIVE",
+                "RU": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 45,
+            "rank": 44,
+            "patent_id": "patent/US8203229B2/en",
+            "patent_link": "https://patents.google.com/patent/US8203229B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8203229B2%2Fen",
+            "title": "Auxiliary drive/brake system for a wind turbine",
+            "snippet": ", wherein the auxiliary drive/brake system produces 10% to 30% of power needed to drive the wind turbine. 16. An auxiliary drive/brake system for a wind turbine, the wind turbine including wind turbine rotor blades connected to a wind turbine low-speed shaft, the wind turbine low-speed shaft drives …",
+            "priority_date": "2009-06-15",
+            "filing_date": "2010-05-14",
+            "grant_date": "2012-06-19",
+            "publication_date": "2012-06-19",
+            "inventor": "Richard Stone",
+            "assignee": "Challenger Design, LLC",
+            "publication_number": "US8203229B2",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/6d/a4/51/3e5ff06a550542/US08203229-20120619-D00000.png",
+            "pdf": "https://patentimages.storage.googleapis.com/c4/51/80/3677fcf13e8b63/US8203229.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/a8/2a/2f/f19c6b2a034d0c/US08203229-20120619-D00000.png",
+                    "full": "https://patentimages.storage.googleapis.com/a6/0c/4b/3a6c7b093cb983/US08203229-20120619-D00000.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/3b/3f/23/65f66c02cdd1a3/US08203229-20120619-D00001.png",
+                    "full": "https://patentimages.storage.googleapis.com/79/29/80/a79dcb2304d91b/US08203229-20120619-D00001.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/fc/6b/1d/042823854e9856/US08203229-20120619-D00002.png",
+                    "full": "https://patentimages.storage.googleapis.com/e4/a2/58/b34ba22eb3fdfb/US08203229-20120619-D00002.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/2f/0a/e5/5de650b03ba3b5/US08203229-20120619-D00003.png",
+                    "full": "https://patentimages.storage.googleapis.com/5d/35/bf/ac6984e8c9b43c/US08203229-20120619-D00003.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/e0/1f/de/9002f8fe6ab1e0/US08203229-20120619-D00004.png",
+                    "full": "https://patentimages.storage.googleapis.com/64/55/fa/3143fe0e2ee75e/US08203229-20120619-D00004.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/a3/6b/86/6f55b8bb9d70e3/US08203229-20120619-D00005.png",
+                    "full": "https://patentimages.storage.googleapis.com/1a/2b/21/340913ce839c37/US08203229-20120619-D00005.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/e0/28/71/8f5126f17ed686/US08203229-20120619-D00006.png",
+                    "full": "https://patentimages.storage.googleapis.com/93/84/15/54ae267fa08fde/US08203229-20120619-D00006.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/3c/72/64/60db9c828adb0a/US08203229-20120619-D00007.png",
+                    "full": "https://patentimages.storage.googleapis.com/6d/88/d5/dc7b1803aef975/US08203229-20120619-D00007.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/00/6b/71/ee8e3c34faa8ca/US08203229-20120619-D00008.png",
+                    "full": "https://patentimages.storage.googleapis.com/18/0e/7b/6cc3806d97ec15/US08203229-20120619-D00008.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/9f/80/de/423c06a5e676be/US08203229-20120619-D00009.png",
+                    "full": "https://patentimages.storage.googleapis.com/87/93/33/35c06a73c34d15/US08203229-20120619-D00009.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/b3/be/58/20f1fb97121f7d/US08203229-20120619-D00010.png",
+                    "full": "https://patentimages.storage.googleapis.com/3c/c8/42/ca5f7dc961953b/US08203229-20120619-D00010.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/ed/f8/8a/743ba24ba72dc8/US08203229-20120619-D00011.png",
+                    "full": "https://patentimages.storage.googleapis.com/a0/4d/10/786878eadc5e68/US08203229-20120619-D00011.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/8d/81/f8/503dbc3c73ff21/US08203229-20120619-D00012.png",
+                    "full": "https://patentimages.storage.googleapis.com/4f/f9/0c/254d379432c33e/US08203229-20120619-D00012.png"
+                }
+            ],
+            "country_status": {
+                "WO": "ACTIVE",
+                "US": "ACTIVE"
+            }
+        },
+        {
+            "position": 46,
+            "rank": 45,
+            "patent_id": "patent/BR102020009306A2/en",
+            "patent_link": "https://patents.google.com/patent/BR102020009306A2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FBR102020009306A2%2Fen",
+            "title": "MULTI TURBINE OF RENEWABLE ENERGY",
+            "snippet": "\"MULTI RENEWABLE ENERGY TURBINE\" characterized by a main body (P) formed from a group of solar panels (1), connected to a charge regulator, energy input and system controller (2), which is connected to a bank of batteries (3), connected to a solar energy inverter converter (4) that supply one or …",
+            "priority_date": "2020-05-11",
+            "filing_date": "2020-05-11",
+            "publication_date": "2021-11-23",
+            "inventor": "Antonio Roberto Melo Medeiros.",
+            "assignee": "Antonio Roberto Mello Medeiros",
+            "publication_number": "BR102020009306A2",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/89/43/ff/4da003463edb00/img0001.png",
+            "pdf": "https://patentimages.storage.googleapis.com/b0/2c/dc/dd5327a370479b/BR102020009306A2.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/c2/a4/ba/60903f4e675228/img0001.png",
+                    "full": "https://patentimages.storage.googleapis.com/e5/d3/9d/c9577da4b79f29/img0001.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/ba/2c/d3/42aaf51b8e3689/img0002.png",
+                    "full": "https://patentimages.storage.googleapis.com/de/a9/79/285a49af30a9ac/img0002.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/ce/f7/01/4a91369b97256f/img0003.png",
+                    "full": "https://patentimages.storage.googleapis.com/21/6c/b4/6f36079308aef6/img0003.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/9d/47/1f/69529df047dcd9/img0004.png",
+                    "full": "https://patentimages.storage.googleapis.com/0a/37/7f/9d787da3cfc269/img0004.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/bd/ae/80/b4dae87e8f1dda/img0005.png",
+                    "full": "https://patentimages.storage.googleapis.com/17/3a/d9/68e7c5aa252129/img0005.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/28/2f/f4/563e948acf53d8/img0006.png",
+                    "full": "https://patentimages.storage.googleapis.com/02/ba/39/5fdba1680fb4bd/img0006.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/03/1e/64/d9358a3ab418c7/img0007.png",
+                    "full": "https://patentimages.storage.googleapis.com/9c/d4/10/00a393855e8d99/img0007.png"
+                }
+            ],
+            "country_status": {
+                "BR": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 47,
+            "rank": 46,
+            "patent_id": "patent/CA2813234C/en",
+            "patent_link": "https://patents.google.com/patent/CA2813234C/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2813234C%2Fen",
+            "title": "Methods and systems for operating a wind turbine in noise reduced operation …",
+            "snippet": "said wind turbine with a plurality of noise reduction modes, each of the noise reduction modes comprising given fixed rated power at a given fixed air density that corresponds to a plurality of set points of a wind turbine parameter predetermined by simulation such that noise produced by said wind …",
+            "priority_date": "2012-04-24",
+            "filing_date": "2013-04-18",
+            "grant_date": "2017-03-07",
+            "publication_date": "2017-03-07",
+            "inventor": "Hartmut Scholte-Wassink",
+            "assignee": "General Electric Company",
+            "publication_number": "CA2813234C",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/de/af/4d/4330e9828d1e16/CA2813234C.pdf",
+            "country_status": {
+                "EP": "ACTIVE",
+                "US": "ACTIVE",
+                "CA": "ACTIVE",
+                "DK": "ACTIVE",
+                "ES": "ACTIVE"
+            }
+        },
+        {
+            "position": 48,
+            "rank": 47,
+            "patent_id": "patent/AU2014271960A1/en",
+            "patent_link": "https://patents.google.com/patent/AU2014271960A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2014271960A1%2Fen",
+            "title": "Vertical axis water/wind turbine motor using flight feather opening/closing …",
+            "snippet": "[Problem] A combined water/wind turbine provided with a drag type in order to enhance the startability of a lift type has a problem that resistance to the rotation force of the combined water/wind turbine is produced when the limit of the high-speed rotation capability of the drag type is reached …",
+            "priority_date": "2013-05-25",
+            "filing_date": "2014-05-24",
+            "publication_date": "2015-12-03",
+            "inventor": "Yoshiji Tamatsu",
+            "assignee": "Tamatsu, Yoshiji MR",
+            "publication_number": "AU2014271960A1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/2a/36/6f/5dbc645188737c/AU2014271960A1.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "US": "ACTIVE",
+                "CN": "ACTIVE",
+                "JP": "ACTIVE",
+                "AU": "ACTIVE",
+                "EA": "NOT_ACTIVE",
+                "NZ": "UNKNOWN"
+            }
+        },
+        {
+            "position": 49,
+            "rank": 48,
+            "patent_id": "patent/CA2887493C/en",
+            "patent_link": "https://patents.google.com/patent/CA2887493C/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2887493C%2Fen",
+            "title": "Reactive power control for wind turbine generators",
+            "snippet": ", with the farm level controller, an available reactive power value for each of the plurality of wind turbine generators; distributing an individual reactive power command to each of the plurality of wind turbine generators, the individual reactive power command individually configured to each wind …",
+            "priority_date": "2014-04-15",
+            "filing_date": "2015-04-10",
+            "grant_date": "2019-01-08",
+            "publication_date": "2019-01-08",
+            "inventor": "Enno Ubben",
+            "assignee": "General Electric Company",
+            "publication_number": "CA2887493C",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/9b/de/ad/e809f3b82db567/CA2887493C.pdf",
+            "country_status": {
+                "EP": "ACTIVE",
+                "US": "ACTIVE",
+                "CA": "ACTIVE",
+                "DK": "ACTIVE",
+                "ES": "ACTIVE"
+            }
+        },
+        {
+            "position": 50,
+            "rank": 49,
+            "patent_id": "patent/WO2009029691A1/en",
+            "patent_link": "https://patents.google.com/patent/WO2009029691A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2009029691A1%2Fen",
+            "title": "Shrouded wind turbine system with yaw control",
+            "snippet": "13. A wind turbine system according to claim 1, further comprising: a support structure, said nacelle and shroud being operably coupled to the support structure; and a yaw system adapted to rotate the rotor assembly, support structure and nacelle, said support structure being mounted atop said yaw …",
+            "priority_date": "2007-08-27",
+            "filing_date": "2008-08-27",
+            "publication_date": "2009-03-05",
+            "inventor": "Mark Cironi",
+            "assignee": "Green Energy Technologies, Inc.",
+            "publication_number": "WO2009029691A1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/3b/c2/c2/556da2fdea9f5f/WO2009029691A1.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "US": "ACTIVE"
+            }
+        }
+    ],
+    "summary": {
+        "assignee": [
+            {
+                "key": "Total",
+                "percentage": 100.0,
+                "frequency": [
+                    {
+                        "year_range": "2025-2028",
+                        "percentage": 7.5
+                    },
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 125.4
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 153.2
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 133.7
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 127.4
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 186.4
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 121.5
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 35.0
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 16.3
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 8.2
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 4.4
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 3.5
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 2.3
+                    },
+                    {
+                        "year_range": "1986-1989",
+                        "percentage": 0.9
+                    },
+                    {
+                        "year_range": "1983-1986",
+                        "percentage": 0.7
+                    },
+                    {
+                        "year_range": "1980-1983",
+                        "percentage": 1.1
+                    },
+                    {
+                        "year_range": "1977-1980",
+                        "percentage": 1.3
+                    },
+                    {
+                        "year_range": "1974-1977",
+                        "percentage": 0.7
+                    }
+                ]
+            },
+            {
+                "key": "Vestas Wind Systems A/S",
+                "percentage": 1.7,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 1.1
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 3.1
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 1.6
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 3.9
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 4.1
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 1.4
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.2
+                    }
+                ]
+            },
+            {
+                "key": "General Electric Company",
+                "percentage": 1.6,
+                "frequency": [
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 1.6
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 2.4
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 3.4
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 4.6
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 2.2
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 0.7
+                    }
+                ]
+            },
+            {
+                "key": "国家电网有限公司",
+                "percentage": 0.6,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 1.5
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 3.5
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.7
+                    }
+                ]
+            },
+            {
+                "key": "通用电气公司",
+                "percentage": 0.4,
+                "frequency": [
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 2.6
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "中国华能集团清洁能源技术研究院有限公司",
+                "percentage": 0.4,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 1.0
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 1.9
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.8
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.2
+                    }
+                ]
+            },
+            {
+                "key": "西安热工研究院有限公司",
+                "percentage": 0.4,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 1.2
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 2.6
+                    }
+                ]
+            },
+            {
+                "key": "国家电网公司",
+                "percentage": 0.4,
+                "frequency": [
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 1.2
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 2.6
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.3
+                    }
+                ]
+            },
+            {
+                "key": "华北电力大学",
+                "percentage": 0.4,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.9
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.8
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 1.1
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "河海大学",
+                "percentage": 0.3,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 1.2
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.7
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.2
+                    }
+                ]
+            },
+            {
+                "key": "哈尔滨工程大学",
+                "percentage": 0.3,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.9
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.7
+                    }
+                ]
+            },
+            {
+                "key": "天津大学",
+                "percentage": 0.3,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.8
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 2.1
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "西安交通大学",
+                "percentage": 0.3,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.8
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.9
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.4
+                    }
+                ]
+            },
+            {
+                "key": "Siemens Aktiengesellschaft",
+                "percentage": 0.3,
+                "frequency": [
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.8
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 1.2
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "无锡同春新能源科技有限公司",
+                "percentage": 0.2,
+                "frequency": [
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 1.7
+                    }
+                ]
+            },
+            {
+                "key": "罗才德",
+                "percentage": 0.2,
+                "frequency": [
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 1.7
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.7
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "上海交通大学",
+                "percentage": 0.2,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "东北电力大学",
+                "percentage": 0.2,
+                "frequency": [
+                    {
+                        "year_range": "2025-2028",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "国电联合动力技术有限公司",
+                "percentage": 0.2,
+                "frequency": [
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.9
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.2
+                    }
+                ]
+            },
+            {
+                "key": "武汉理工大学",
+                "percentage": 0.2,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.1
+                    }
+                ]
+            }
+        ],
+        "inventor": [
+            {
+                "key": "Total",
+                "percentage": 100.0,
+                "frequency": [
+                    {
+                        "year_range": "2025-2028",
+                        "percentage": 7.5
+                    },
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 125.4
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 153.2
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 133.7
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 127.4
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 186.4
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 121.5
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 35.0
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 16.3
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 8.2
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 4.4
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 3.5
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 2.3
+                    },
+                    {
+                        "year_range": "1986-1989",
+                        "percentage": 0.9
+                    },
+                    {
+                        "year_range": "1983-1986",
+                        "percentage": 0.7
+                    },
+                    {
+                        "year_range": "1980-1983",
+                        "percentage": 1.1
+                    },
+                    {
+                        "year_range": "1977-1980",
+                        "percentage": 1.3
+                    },
+                    {
+                        "year_range": "1974-1977",
+                        "percentage": 0.7
+                    }
+                ]
+            },
+            {
+                "key": "不公告发明人",
+                "percentage": 0.5,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 1.6
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 1.7
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 1.4
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.2
+                    }
+                ]
+            },
+            {
+                "key": "张鹏",
+                "percentage": 0.4,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 1.2
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 1.1
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.5
+                    }
+                ]
+            },
+            {
+                "key": "缪同春",
+                "percentage": 0.2,
+                "frequency": [
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 1.7
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.2
+                    }
+                ]
+            },
+            {
+                "key": "张超",
+                "percentage": 0.2,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.2
+                    }
+                ]
+            },
+            {
+                "key": "刘伟",
+                "percentage": 0.2,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 1.3
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.2
+                    }
+                ]
+            },
+            {
+                "key": "罗才德",
+                "percentage": 0.2,
+                "frequency": [
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 1.7
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.7
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "王刚",
+                "percentage": 0.2,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 1.4
+                    }
+                ]
+            },
+            {
+                "key": "王一平",
+                "percentage": 0.1,
+                "frequency": [
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 1.7
+                    }
+                ]
+            },
+            {
+                "key": "王磊",
+                "percentage": 0.1,
+                "frequency": [
+                    {
+                        "year_range": "2025-2028",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.2
+                    }
+                ]
+            },
+            {
+                "key": "聂在和",
+                "percentage": 0.1,
+                "frequency": [
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 1.4
+                    }
+                ]
+            },
+            {
+                "key": "徐越",
+                "percentage": 0.1,
+                "frequency": [
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.2
+                    }
+                ]
+            },
+            {
+                "key": "曾攀",
+                "percentage": 0.1,
+                "frequency": [
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.6
+                    }
+                ]
+            },
+            {
+                "key": "Aloys Wobben",
+                "percentage": 0.1,
+                "frequency": [
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.3
+                    }
+                ]
+            },
+            {
+                "key": "李钊明",
+                "percentage": 0.1,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.9
+                    }
+                ]
+            },
+            {
+                "key": "张斌",
+                "percentage": 0.1,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "宁德志",
+                "percentage": 0.1,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.7
+                    }
+                ]
+            },
+            {
+                "key": "张强",
+                "percentage": 0.1,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.2
+                    }
+                ]
+            },
+            {
+                "key": "胡笑添",
+                "percentage": 0.1,
+                "frequency": [
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 1.1
+                    }
+                ]
+            },
+            {
+                "key": "李明",
+                "percentage": 0.1,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.1
+                    }
+                ]
+            }
+        ],
+        "cpc": [
+            {
+                "key": "Total",
+                "percentage": 100.0,
+                "frequency": [
+                    {
+                        "year_range": "2025-2028",
+                        "percentage": 7.5
+                    },
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 125.4
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 153.2
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 133.7
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 127.4
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 186.4
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 121.5
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 35.0
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 16.3
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 8.2
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 4.4
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 3.5
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 2.3
+                    },
+                    {
+                        "year_range": "1986-1989",
+                        "percentage": 0.9
+                    },
+                    {
+                        "year_range": "1983-1986",
+                        "percentage": 0.7
+                    },
+                    {
+                        "year_range": "1980-1983",
+                        "percentage": 1.1
+                    },
+                    {
+                        "year_range": "1977-1980",
+                        "percentage": 1.3
+                    },
+                    {
+                        "year_range": "1974-1977",
+                        "percentage": 0.7
+                    }
+                ]
+            },
+            {
+                "key": "Y02E",
+                "percentage": 82.5,
+                "frequency": [
+                    {
+                        "year_range": "2025-2028",
+                        "percentage": 1.2
+                    },
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 54.7
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 131.6
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 121.3
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 112.2
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 166.3
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 112.8
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 33.5
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 14.2
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 7.1
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 3.8
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 2.5
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 2.0
+                    },
+                    {
+                        "year_range": "1986-1989",
+                        "percentage": 0.8
+                    },
+                    {
+                        "year_range": "1983-1986",
+                        "percentage": 0.7
+                    },
+                    {
+                        "year_range": "1980-1983",
+                        "percentage": 1.1
+                    },
+                    {
+                        "year_range": "1977-1980",
+                        "percentage": 1.2
+                    },
+                    {
+                        "year_range": "1974-1977",
+                        "percentage": 0.7
+                    }
+                ]
+            },
+            {
+                "key": "F03D",
+                "percentage": 29.3,
+                "frequency": [
+                    {
+                        "year_range": "2025-2028",
+                        "percentage": 1.1
+                    },
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 34.0
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 42.8
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 48.7
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 24.1
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 46.2
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 40.8
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 16.7
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 8.6
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 3.3
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 1.1
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 1.2
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 1.0
+                    },
+                    {
+                        "year_range": "1986-1989",
+                        "percentage": 0.7
+                    },
+                    {
+                        "year_range": "1983-1986",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1980-1983",
+                        "percentage": 0.9
+                    },
+                    {
+                        "year_range": "1977-1980",
+                        "percentage": 1.0
+                    },
+                    {
+                        "year_range": "1974-1977",
+                        "percentage": 0.6
+                    }
+                ]
+            },
+            {
+                "key": "F05B",
+                "percentage": 20.3,
+                "frequency": [
+                    {
+                        "year_range": "2025-2028",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 14.6
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 20.0
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 28.5
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 17.5
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 40.0
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 36.2
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 14.7
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 7.6
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 3.2
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 1.0
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 1.0
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 1.0
+                    },
+                    {
+                        "year_range": "1986-1989",
+                        "percentage": 0.7
+                    },
+                    {
+                        "year_range": "1983-1986",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "1980-1983",
+                        "percentage": 0.8
+                    },
+                    {
+                        "year_range": "1977-1980",
+                        "percentage": 0.8
+                    },
+                    {
+                        "year_range": "1974-1977",
+                        "percentage": 0.6
+                    }
+                ]
+            },
+            {
+                "key": "Y02B",
+                "percentage": 10.7,
+                "frequency": [
+                    {
+                        "year_range": "2025-2028",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 2.6
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 16.4
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 16.2
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 14.1
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 23.1
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 20.0
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 4.2
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 1.9
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1983-1986",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1977-1980",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1974-1977",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "Y02P",
+                "percentage": 9.1,
+                "frequency": [
+                    {
+                        "year_range": "2025-2028",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 2.9
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 12.0
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 11.3
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 14.0
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 22.7
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 14.7
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 3.4
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 2.2
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1986-1989",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1983-1986",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1974-1977",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "H02S",
+                "percentage": 8.9,
+                "frequency": [
+                    {
+                        "year_range": "2025-2028",
+                        "percentage": 0.8
+                    },
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 19.7
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 19.0
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 19.7
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 5.8
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 9.5
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 5.6
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 2.0
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "1983-1986",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1977-1980",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1974-1977",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "H02J",
+                "percentage": 6.8,
+                "frequency": [
+                    {
+                        "year_range": "2025-2028",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 18.2
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 18.7
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 12.7
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 4.8
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 4.3
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 2.5
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 1.5
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "F03B",
+                "percentage": 4.9,
+                "frequency": [
+                    {
+                        "year_range": "2025-2028",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 9.7
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 10.9
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 9.1
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 4.0
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 4.9
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 3.9
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 1.6
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 0.9
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.5
+                    }
+                ]
+            },
+            {
+                "key": "F24S",
+                "percentage": 3.3,
+                "frequency": [
+                    {
+                        "year_range": "2025-2028",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 6.8
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 7.7
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 4.0
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 2.1
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 4.6
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 3.2
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 1.2
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1980-1983",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1977-1980",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1974-1977",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "F03G",
+                "percentage": 2.9,
+                "frequency": [
+                    {
+                        "year_range": "2025-2028",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 4.1
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 4.8
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 5.4
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 2.7
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 4.1
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 3.3
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 1.1
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 0.8
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1980-1983",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1977-1980",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1974-1977",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "H02K",
+                "percentage": 2.3,
+                "frequency": [
+                    {
+                        "year_range": "2025-2028",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 5.1
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 5.2
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 4.0
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 2.1
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 2.1
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 1.4
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.7
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "Y02A",
+                "percentage": 1.8,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 3.8
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 3.7
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 3.0
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 3.7
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 1.7
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "H02P",
+                "percentage": 1.4,
+                "frequency": [
+                    {
+                        "year_range": "2025-2028",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.7
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 1.2
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 1.7
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 1.7
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 3.2
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 2.2
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.9
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1986-1989",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1977-1980",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "B63B",
+                "percentage": 1.3,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 2.1
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 2.4
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 2.6
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 1.4
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 1.9
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 1.0
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.2
+                    }
+                ]
+            },
+            {
+                "key": "F01D",
+                "percentage": 1.2,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 2.8
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 3.5
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 2.7
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 1.0
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.9
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 0.2
+                    }
+                ]
+            },
+            {
+                "key": "F01K",
+                "percentage": 1.1,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 2.8
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 3.2
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 1.5
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 1.8
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "G06Q",
+                "percentage": 1.0,
+                "frequency": [
+                    {
+                        "year_range": "2025-2028",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 3.2
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 3.9
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 1.3
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.3
+                    }
+                ]
+            },
+            {
+                "key": "Y02T",
+                "percentage": 0.9,
+                "frequency": [
+                    {
+                        "year_range": "2025-2028",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 1.1
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 1.5
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 1.4
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 2.2
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.9
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.7
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 0.2
+                    }
+                ]
+            },
+            {
+                "key": "H10F",
+                "percentage": 0.9,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 1.3
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 1.1
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 1.8
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 1.2
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 1.8
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 1.1
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.6
+                    }
+                ]
+            }
+        ]
+    },
+    "pagination": {
+        "current": 1,
+        "next": "https://patents.google.com/xhr/query?url=q%3Drenewable%2Benergy%2BOR%2Bsolar%2Bpower%2BOR%2Bwind%2Bturbine%26page%3D2%26num%3D50"
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next": "https://serpapi.com/search.json?engine=google_patents&num=50&page=2&q=renewable+energy+OR+solar+power+OR+wind+turbine"
+    }
+}

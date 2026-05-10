@@ -1,0 +1,4013 @@
+{
+    "search_metadata": {
+        "id": "68e69c8571ff8ccac9dd5618",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/4459c42de48f0687/68e69c8571ff8ccac9dd5618.json",
+        "created_at": "2025-10-08 17:16:53 UTC",
+        "processed_at": "2025-10-08 17:16:53 UTC",
+        "google_patents_url": "https://patents.google.com/xhr/query?url=q%3Dcoffee%2Bprocessing%2BOR%2Bfood%2Bpreservation%26num%3D50",
+        "raw_html_file": "https://serpapi.com/searches/4459c42de48f0687/68e69c8571ff8ccac9dd5618.html",
+        "prettify_html_file": "https://serpapi.com/searches/4459c42de48f0687/68e69c8571ff8ccac9dd5618.prettify",
+        "total_time_taken": 2.48
+    },
+    "search_parameters": {
+        "engine": "google_patents",
+        "q": "coffee processing OR food preservation",
+        "num": "50"
+    },
+    "search_information": {
+        "total_results": 116359,
+        "total_pages": 20,
+        "page_number": 1
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "rank": 0,
+            "patent_id": "patent/US20110059217A1/en",
+            "patent_link": "https://patents.google.com/patent/US20110059217A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110059217A1%2Fen",
+            "title": "High pressure frozen sterilization process",
+            "snippet": "21 . The method of claim 20 wherein the temperature sensitive material is a food product. 22 . The method of claim 21 wherein the food product is an acidified food product comprising an acidulant in an amount effective to adjust the pH of the food product to 3.6 to 4.5. 23 . The method of claim 22",
+            "priority_date": "2007-06-27",
+            "filing_date": "2008-06-25",
+            "publication_date": "2011-03-10",
+            "inventor": "Richard S. Meyer",
+            "assignee": "Meyer Richard S",
+            "publication_number": "US20110059217A1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/b2/ce/2e/b4e1291c66918d/US20110059217A1.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "US": "ACTIVE"
+            }
+        },
+        {
+            "position": 2,
+            "rank": 1,
+            "patent_id": "patent/US20190159486A1/en",
+            "patent_link": "https://patents.google.com/patent/US20190159486A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190159486A1%2Fen",
+            "title": "Method for Preparing Food",
+            "snippet": "1 . A method for preparing food having at least a solid food component, the method comprising: during a high-temperature, short-time stage (“HTST stage”), cooking a surface of the solid food component at a temperature (“HTST temperature”) of greater than 140° C.; placing the food into packaging to …",
+            "priority_date": "2017-11-29",
+            "filing_date": "2017-11-29",
+            "publication_date": "2019-05-30",
+            "inventor": "Man Ho Cheung",
+            "assignee": "IXON Food Technology Limited",
+            "publication_number": "US20190159486A1",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/8b/20/54/ed4a569099ca5b/US20190159486A1-20190530-D00000.png",
+            "pdf": "https://patentimages.storage.googleapis.com/60/d1/77/1687ab4b516b9a/US20190159486A1.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/ba/4b/18/398d63ea146ee1/US20190159486A1-20190530-D00000.png",
+                    "full": "https://patentimages.storage.googleapis.com/72/52/76/47681c3efa9895/US20190159486A1-20190530-D00000.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/f9/54/ca/7f210f0413e4ab/US20190159486A1-20190530-D00001.png",
+                    "full": "https://patentimages.storage.googleapis.com/52/24/a4/f44799b82cd37c/US20190159486A1-20190530-D00001.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/d1/33/32/601081bab47621/US20190159486A1-20190530-D00002.png",
+                    "full": "https://patentimages.storage.googleapis.com/81/b6/0c/c0aec72892b339/US20190159486A1-20190530-D00002.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/87/fa/c8/debd899305d750/US20190159486A1-20190530-D00003.png",
+                    "full": "https://patentimages.storage.googleapis.com/b3/56/c3/6c7c01aa18d55c/US20190159486A1-20190530-D00003.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/81/17/f7/57ae36842e87e2/US20190159486A1-20190530-D00004.png",
+                    "full": "https://patentimages.storage.googleapis.com/a0/f9/e8/f350faf67b2f65/US20190159486A1-20190530-D00004.png"
+                }
+            ],
+            "country_status": {
+                "EP": "ACTIVE",
+                "US": "NOT_ACTIVE",
+                "CN": "ACTIVE"
+            }
+        },
+        {
+            "position": 3,
+            "rank": 2,
+            "patent_id": "patent/US11432558B2/en",
+            "patent_link": "https://patents.google.com/patent/US11432558B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11432558B2%2Fen",
+            "title": "Integrated heating and cooling food processing system",
+            "snippet": "A food processing system is provided with: a heating unit equipped with a heating mechanism for indirectly heating food; a cooling unit equipped with an air blowing cooler for cooling the food heated by the heating unit; and a conveyor for transferring the food through the heating unit and the …",
+            "priority_date": "2015-03-13",
+            "filing_date": "2019-12-16",
+            "grant_date": "2022-09-06",
+            "publication_date": "2022-09-06",
+            "inventor": "Ikuo Ota",
+            "assignee": "Hakubai Co., Ltd.",
+            "publication_number": "US11432558B2",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/27/0a/29/b9b2d0fa4ea8a0/US11432558-20220906-D00000.png",
+            "pdf": "https://patentimages.storage.googleapis.com/ce/0d/1a/e71f306a80769f/US11432558.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/65/d3/af/cb170dff7cca00/US11432558-20220906-D00000.png",
+                    "full": "https://patentimages.storage.googleapis.com/0a/59/57/ef39d6a11ebc60/US11432558-20220906-D00000.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/20/0d/5c/cb6b26b84b9a13/US11432558-20220906-D00001.png",
+                    "full": "https://patentimages.storage.googleapis.com/9c/11/07/999944d695e3bc/US11432558-20220906-D00001.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/83/23/7d/7b7786c824e88e/US11432558-20220906-D00002.png",
+                    "full": "https://patentimages.storage.googleapis.com/fe/d4/ad/52d7bbfc455dce/US11432558-20220906-D00002.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/9d/0c/2f/8b29964237976e/US11432558-20220906-D00003.png",
+                    "full": "https://patentimages.storage.googleapis.com/69/98/fe/f06c612b0f60aa/US11432558-20220906-D00003.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/05/ed/25/25ffafdbb971fc/US11432558-20220906-D00004.png",
+                    "full": "https://patentimages.storage.googleapis.com/32/fd/90/98bff5d470aa58/US11432558-20220906-D00004.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/d8/ec/1a/4e5746e822ee55/US11432558-20220906-D00005.png",
+                    "full": "https://patentimages.storage.googleapis.com/0c/72/64/7616f220ac4fc8/US11432558-20220906-D00005.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/24/9b/95/1166a986966e55/US11432558-20220906-D00006.png",
+                    "full": "https://patentimages.storage.googleapis.com/5e/3c/1b/b0650ceff85bcb/US11432558-20220906-D00006.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/80/d4/57/6caaf247f533ef/US11432558-20220906-D00007.png",
+                    "full": "https://patentimages.storage.googleapis.com/34/d3/3e/832f9a5b512718/US11432558-20220906-D00007.png"
+                }
+            ],
+            "country_status": {
+                "EP": "ACTIVE",
+                "US": "ACTIVE",
+                "CN": "ACTIVE",
+                "JP": "ACTIVE",
+                "KR": "ACTIVE",
+                "AU": "ACTIVE",
+                "CA": "ACTIVE",
+                "PH": "UNKNOWN"
+            }
+        },
+        {
+            "position": 4,
+            "rank": 3,
+            "patent_id": "patent/JPWO2016152820A1/en",
+            "patent_link": "https://patents.google.com/patent/JPWO2016152820A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPWO2016152820A1%2Fen",
+            "title": "Container-packed frozen vegetables and method for producing the same",
+            "snippet": "Single-type or multiple-type vegetables that have been quickly frozen after being blanched in a cut state are cooked in a state where supplementary foods selected and processed to harmonize with the vegetables are added. The container-packed frozen warm vegetable according to claim 1, which is …",
+            "priority_date": "2015-03-20",
+            "filing_date": "2016-03-18",
+            "publication_date": "2017-04-27",
+            "inventor": "裕康 山崎",
+            "assignee": "株式会社勝美ジャパン",
+            "publication_number": "JPWO2016152820A1",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/44/e7/21/e5fdaf3dbd7d60/2016152820-3.png",
+            "pdf": "https://patentimages.storage.googleapis.com/a9/de/f4/8debca0ca10dfb/JPWO2016152820A1.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/d5/59/40/c0dcebbbf5c192/2016152820-3.png",
+                    "full": "https://patentimages.storage.googleapis.com/08/fe/54/8990a1b128debc/2016152820-3.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/0d/3f/85/cea319d23fb72c/2016152820-4.png",
+                    "full": "https://patentimages.storage.googleapis.com/5b/bb/7f/965755777ff096/2016152820-4.png"
+                }
+            ],
+            "country_status": {
+                "WO": "ACTIVE",
+                "JP": "ACTIVE"
+            }
+        },
+        {
+            "position": 5,
+            "rank": 4,
+            "patent_id": "patent/US20210378443A1/en",
+            "patent_link": "https://patents.google.com/patent/US20210378443A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210378443A1%2Fen",
+            "title": "Method for conserving a meal prepared by heating, and for providing communal …",
+            "snippet": "a water tank for holding water and a lid for closing the water tank ( 7 ), an immersion basket with compartments for packaging units of refrigerated preserved food components to be placed in the water tank, at least one electric heating element for heating the water, a pump for circulating the water, …",
+            "priority_date": "2018-04-10",
+            "filing_date": "2019-04-10",
+            "publication_date": "2021-12-09",
+            "inventor": "Karsten Streeck",
+            "assignee": "Z-Catering Mitte Gmbh",
+            "publication_number": "US20210378443A1",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/18/5f/4e/05ec66abfec294/US20210378443A1-20211209-D00000.png",
+            "pdf": "https://patentimages.storage.googleapis.com/4b/01/a4/5b06cd912b70eb/US20210378443A1.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/bd/df/f0/f355fa96a030eb/US20210378443A1-20211209-D00000.png",
+                    "full": "https://patentimages.storage.googleapis.com/2d/42/cc/f21c5d10ce000d/US20210378443A1-20211209-D00000.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/c5/c8/b0/69cfe8335a2c8e/US20210378443A1-20211209-D00001.png",
+                    "full": "https://patentimages.storage.googleapis.com/fe/d9/a8/d4af6a48131882/US20210378443A1-20211209-D00001.png"
+                }
+            ],
+            "country_status": {
+                "WO": "ACTIVE",
+                "EP": "ACTIVE",
+                "US": "ACTIVE",
+                "PL": "UNKNOWN"
+            }
+        },
+        {
+            "position": 6,
+            "rank": 5,
+            "patent_id": "patent/US8425962B2/en",
+            "patent_link": "https://patents.google.com/patent/US8425962B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8425962B2%2Fen",
+            "title": "Fruit and vegetable preservation process",
+            "snippet": "6. The preservation process of claim 1 wherein the step of adding a pH modification medium includes applying a medium with a pH of about 4. 7. The preservation process of claim 1 , wherein the food item is a green vegetable. 8. The preservation process of claim 1 , wherein the product and the medium …",
+            "priority_date": "2010-03-02",
+            "filing_date": "2010-03-02",
+            "grant_date": "2013-04-23",
+            "publication_date": "2013-04-23",
+            "inventor": "Melissa Anne PALLESCHI",
+            "assignee": "Del Monte Corporation",
+            "publication_number": "US8425962B2",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/d0/58/bd/baf4e9eb42acfe/US08425962-20130423-D00001.png",
+            "pdf": "https://patentimages.storage.googleapis.com/03/4b/a9/70b9770c4f0b80/US8425962.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/fb/d4/f5/72598e2f0240ec/US08425962-20130423-D00001.png",
+                    "full": "https://patentimages.storage.googleapis.com/ca/b6/86/55b0e2f2e08c9a/US08425962-20130423-D00001.png"
+                }
+            ],
+            "country_status": {
+                "WO": "ACTIVE",
+                "US": "ACTIVE",
+                "CA": "NOT_ACTIVE",
+                "MX": "UNKNOWN"
+            }
+        },
+        {
+            "position": 7,
+            "rank": 6,
+            "patent_id": "patent/JP5391199B2/en",
+            "patent_link": "https://patents.google.com/patent/JP5391199B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5391199B2%2Fen",
+            "title": "Food preservation method and system",
+            "snippet": "One or more foods, the plurality of pulses of microwave radiation having one or more wavelengths between 1GHz from horizontal microwave radiation source and the vertical microwave radiation source of 300 GHz, exposing seven seconds even without least , A method of preserving one or more foods …",
+            "priority_date": "2007-08-28",
+            "filing_date": "2008-08-28",
+            "grant_date": "2014-01-15",
+            "publication_date": "2014-01-15",
+            "inventor": "クリスティン アルバラド",
+            "assignee": "テキサス テック ユニヴァーシティー システム",
+            "publication_number": "JP5391199B2",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/a7/aa/e8/b53ba875267bf6/0005391199-28.png",
+            "pdf": "https://patentimages.storage.googleapis.com/35/03/74/eecfa22451187a/JP5391199B2.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/8c/bd/75/8ae0395245a1f0/0005391199-28.png",
+                    "full": "https://patentimages.storage.googleapis.com/e9/fd/c5/ca702cebc2fafd/0005391199-28.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/c1/f7/2f/561c0b55ab32b1/0005391199-29.png",
+                    "full": "https://patentimages.storage.googleapis.com/aa/67/9c/94652d9a7aa780/0005391199-29.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/01/c4/a3/85897173d586e3/0005391199-30.png",
+                    "full": "https://patentimages.storage.googleapis.com/c0/40/1f/c539eb6df84281/0005391199-30.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/d7/36/64/fbf564a08d9ca7/0005391199-31.png",
+                    "full": "https://patentimages.storage.googleapis.com/1b/90/7d/de1f210cac844f/0005391199-31.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/b4/a4/a9/af3392c5952aad/0005391199-32.png",
+                    "full": "https://patentimages.storage.googleapis.com/10/ce/d7/0ba7d82b5641b0/0005391199-32.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/ac/3d/63/1abbeae7aa14b6/0005391199-33.png",
+                    "full": "https://patentimages.storage.googleapis.com/e6/67/a2/535974f8f7b552/0005391199-33.png"
+                }
+            ],
+            "country_status": {
+                "WO": "ACTIVE",
+                "EP": "ACTIVE",
+                "US": "ACTIVE",
+                "CN": "ACTIVE",
+                "JP": "ACTIVE",
+                "AU": "ACTIVE",
+                "CA": "ACTIVE",
+                "ES": "ACTIVE",
+                "MX": "ACTIVE"
+            }
+        },
+        {
+            "position": 8,
+            "rank": 7,
+            "patent_id": "patent/RU2380987C1/en",
+            "patent_link": "https://patents.google.com/patent/RU2380987C1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2380987C1%2Fen",
+            "title": "Production method of instant preserved product \"pea soup with smoked meat\"",
+            "snippet": "FIELD: food industry. SUBSTANCE: method involves preparing meat and vegetable ingredients such as chopping beef and smoked meat, peeling, shredding and blanching potatoes, cleaning and blanching peas, steeping and chopping dry fried onions and carrots, mixing the specified ingredients adding …",
+            "priority_date": "2008-05-19",
+            "filing_date": "2008-05-19",
+            "grant_date": "2010-02-10",
+            "publication_date": "2010-02-10",
+            "inventor": "Чи Киен Нгуен (RU)",
+            "assignee": "Общество с ограниченной ответственностью \"Кинг-Лион Фудс\"",
+            "publication_number": "RU2380987C1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/5a/9e/df/79381b8a8273a0/RU2380987C1.pdf",
+            "country_status": {
+                "RU": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 9,
+            "rank": 8,
+            "patent_id": "patent/RU2472399C2/en",
+            "patent_link": "https://patents.google.com/patent/RU2472399C2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2472399C2%2Fen",
+            "title": "Method for manufacture of products for children alimentation",
+            "snippet": "19. The method according to claim 1 or 2, in which baby food for infants aged from about 6 to about 8 months (Stage 2) contain coconut. 20. The method according to claim 1 or 2, in which baby food for babies aged from about 8 to about 12 months (Stage 3) contain one or more types of vegetables …",
+            "priority_date": "2007-09-07",
+            "filing_date": "2008-09-01",
+            "grant_date": "2013-01-20",
+            "publication_date": "2013-01-20",
+            "inventor": "Саймон ХУТШЕНРОЙТЕР",
+            "assignee": "Нестек С.А.",
+            "publication_number": "RU2472399C2",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/9d/31/00/d7558afd74c678/00000002.png",
+            "pdf": "https://patentimages.storage.googleapis.com/98/ec/5e/840feae0edfedc/RU2472399C2.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/86/93/f0/a4dd8b9a83f9f1/00000002.png",
+                    "full": "https://patentimages.storage.googleapis.com/ca/65/e4/ba7cdf6591a9f3/00000002.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/20/71/1d/da34a24a3de2b7/00000003.png",
+                    "full": "https://patentimages.storage.googleapis.com/dc/27/68/9da5cb174de7f6/00000003.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/03/ef/5f/39beeeebf012b2/00000004.png",
+                    "full": "https://patentimages.storage.googleapis.com/c4/e4/1c/dce086a554eaae/00000004.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/e7/77/6d/f32fe8285eaeb7/00000005.png",
+                    "full": "https://patentimages.storage.googleapis.com/ae/98/4f/3d42e35119c195/00000005.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/a7/4e/5f/8b1568592b3d49/00000006.png",
+                    "full": "https://patentimages.storage.googleapis.com/ca/2a/64/2a0974fafa0045/00000006.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/94/10/f0/27fe208006b677/00000007.png",
+                    "full": "https://patentimages.storage.googleapis.com/ca/d5/71/fb8ead07a41997/00000007.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/4c/68/d5/a41178397c0620/00000008.png",
+                    "full": "https://patentimages.storage.googleapis.com/26/d6/e4/3f8833bb0456d7/00000008.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/5b/fb/a6/9338d5c4b70849/00000009.png",
+                    "full": "https://patentimages.storage.googleapis.com/94/c1/0d/bcb2b8d45501e4/00000009.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/14/7e/63/05e28974bfec38/00000010.png",
+                    "full": "https://patentimages.storage.googleapis.com/af/3b/65/37c94f99af128b/00000010.png"
+                }
+            ],
+            "country_status": {
+                "WO": "ACTIVE",
+                "EP": "ACTIVE",
+                "US": "NOT_ACTIVE",
+                "CN": "ACTIVE",
+                "JP": "ACTIVE",
+                "AR": "UNKNOWN",
+                "AT": "ACTIVE",
+                "AU": "ACTIVE",
+                "BR": "NOT_ACTIVE",
+                "CA": "ACTIVE",
+                "CL": "UNKNOWN",
+                "DE": "ACTIVE",
+                "DK": "ACTIVE",
+                "ES": "ACTIVE",
+                "MX": "ACTIVE",
+                "MY": "UNKNOWN",
+                "PL": "UNKNOWN",
+                "PT": "UNKNOWN",
+                "RS": "UNKNOWN",
+                "RU": "ACTIVE",
+                "SI": "UNKNOWN",
+                "TW": "NOT_ACTIVE",
+                "ZA": "UNKNOWN"
+            }
+        },
+        {
+            "position": 10,
+            "rank": 9,
+            "patent_id": "patent/US20130142927A1/en",
+            "patent_link": "https://patents.google.com/patent/US20130142927A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130142927A1%2Fen",
+            "title": "Consumer-Oriented System for the Delivery of Produce including improved safety …",
+            "snippet": "It is a universal desire to eat healthy that transcends all cultures, societies, and beliefs. This desire to consume more unprocessed fruits and vegetables is borne through the realization that the fresher the food, the better it is. By way of contrast, it is widely believed, and supported through …",
+            "priority_date": "2011-12-05",
+            "filing_date": "2011-12-05",
+            "publication_date": "2013-06-06",
+            "inventor": "Cyrus A. SEPEHR",
+            "assignee": "Cyrus A. SEPEHR",
+            "publication_number": "US20130142927A1",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/fd/89/b3/d36dbc7e5a4362/US20130142927A1-20130606-D00000.png",
+            "pdf": "https://patentimages.storage.googleapis.com/c9/94/6b/336ff984057ddd/US20130142927A1.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/50/7d/b6/12e3e5ac4fc44a/US20130142927A1-20130606-D00000.png",
+                    "full": "https://patentimages.storage.googleapis.com/54/64/15/3ffe474b42491d/US20130142927A1-20130606-D00000.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/52/52/0d/08d0b1e23c74df/US20130142927A1-20130606-D00001.png",
+                    "full": "https://patentimages.storage.googleapis.com/ae/62/60/658e9f5e9d9670/US20130142927A1-20130606-D00001.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/97/d3/8b/58157d010226bc/US20130142927A1-20130606-D00002.png",
+                    "full": "https://patentimages.storage.googleapis.com/65/ee/97/d668759bf8f24c/US20130142927A1-20130606-D00002.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/53/2f/5d/16db45c14888b6/US20130142927A1-20130606-D00003.png",
+                    "full": "https://patentimages.storage.googleapis.com/7a/eb/88/9b6e8621ee5990/US20130142927A1-20130606-D00003.png"
+                }
+            ],
+            "country_status": {
+                "WO": "ACTIVE",
+                "US": "NOT_ACTIVE",
+                "AU": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 11,
+            "rank": 10,
+            "patent_id": "patent/EP2353402A1/en",
+            "patent_link": "https://patents.google.com/patent/EP2353402A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2353402A1%2Fen",
+            "title": "Method for altering the flavor of a food product",
+            "snippet": "A method according to any one of claims 1-9, characterized in that the food product is packed together with the solid compound, the liquid or the gas, in a vacuum packaging. A method according to any one of claims 1-10, characterized in that the food product is a liquid. A food product with an …",
+            "priority_date": "2010-02-05",
+            "filing_date": "2010-02-05",
+            "publication_date": "2011-08-10",
+            "inventor": "Bernard Lahousse",
+            "assignee": "Sense for taste",
+            "publication_number": "EP2353402A1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/5f/93/a0/79a2a3246d54cc/EP2353402A1.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "EP": "ACTIVE",
+                "US": "NOT_ACTIVE",
+                "CN": "ACTIVE",
+                "JP": "ACTIVE",
+                "AU": "ACTIVE",
+                "BR": "ACTIVE",
+                "CA": "ACTIVE",
+                "RU": "ACTIVE"
+            }
+        },
+        {
+            "position": 12,
+            "rank": 11,
+            "patent_id": "patent/US20190230944A1/en",
+            "patent_link": "https://patents.google.com/patent/US20190230944A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190230944A1%2Fen",
+            "title": "Process for making an edible moist shredded sqid product",
+            "snippet": "subjecting the vacuum packed squid to a high level of isostatic pressure; or a combination thereof. 13 . A food product comprising a shredded squid product produced by the process of claim 1 . 14 . The process of claim 1 , wherein step (b) comprises shredding the squid after reducing the moisture …",
+            "priority_date": "2016-09-09",
+            "filing_date": "2017-09-11",
+            "publication_date": "2019-08-01",
+            "inventor": "Neal NAITO",
+            "assignee": "Surf 82 Seafood Llc",
+            "publication_number": "US20190230944A1",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/71/d8/c9/252afc391092a1/US20190230944A1-20190801-D00000.png",
+            "pdf": "https://patentimages.storage.googleapis.com/0d/f1/18/ab80b7461df961/US20190230944A1.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/37/32/62/1f009423d2b74c/US20190230944A1-20190801-D00000.png",
+                    "full": "https://patentimages.storage.googleapis.com/96/fd/19/9597c896393ee0/US20190230944A1-20190801-D00000.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/48/f2/1c/ae2ce51da1ad90/US20190230944A1-20190801-D00001.png",
+                    "full": "https://patentimages.storage.googleapis.com/0a/2e/8c/e5995096ed32ac/US20190230944A1-20190801-D00001.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/36/b1/58/73150b5ce6030c/US20190230944A1-20190801-D00002.png",
+                    "full": "https://patentimages.storage.googleapis.com/9e/95/ca/a391c4adc0aaf9/US20190230944A1-20190801-D00002.png"
+                }
+            ],
+            "country_status": {
+                "WO": "NOT_ACTIVE",
+                "EP": "NOT_ACTIVE",
+                "US": "NOT_ACTIVE",
+                "JP": "ACTIVE",
+                "TW": "ACTIVE"
+            }
+        },
+        {
+            "position": 13,
+            "rank": 12,
+            "patent_id": "patent/US20120276258A1/en",
+            "patent_link": "https://patents.google.com/patent/US20120276258A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120276258A1%2Fen",
+            "title": "Fruit and vegetable peservation process",
+            "snippet": "5 . The fruit preservation process of claim 1 wherein the prepared fruit is subjected to a deaeration step prior to sealing the package. 6 . The fruit preservation process of claim 1 further including the step of minimizing the volume of any gas in the package. 7 . The fruit preservation process of",
+            "priority_date": "2011-04-29",
+            "filing_date": "2011-10-14",
+            "publication_date": "2012-11-01",
+            "inventor": "Karim Nafisi-Movaghar",
+            "assignee": "Del Monte Corporation",
+            "publication_number": "US20120276258A1",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/dd/c7/c7/5520c796d87a89/US20120276258A1-20121101-D00000.png",
+            "pdf": "https://patentimages.storage.googleapis.com/64/d7/cc/0ac460ba6f5279/US20120276258A1.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/bc/0a/43/f43718df6a2024/US20120276258A1-20121101-D00000.png",
+                    "full": "https://patentimages.storage.googleapis.com/96/ff/d5/d0c74ab9b22737/US20120276258A1-20121101-D00000.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/99/ca/50/ba1acd77925f02/US20120276258A1-20121101-D00001.png",
+                    "full": "https://patentimages.storage.googleapis.com/17/9d/d6/0f74885e42206c/US20120276258A1-20121101-D00001.png"
+                }
+            ],
+            "country_status": {
+                "US": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 14,
+            "rank": 13,
+            "patent_id": "patent/AU2018417176A1/en",
+            "patent_link": "https://patents.google.com/patent/AU2018417176A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2018417176A1%2Fen",
+            "title": "Food protection of fruit, cereal and vegetable and derivatives",
+            "snippet": "9. Fruit, cereal and vegetable protecting composition according to claim 3 characterised in that the food product is mushroom. 10. Fruit, cereal and vegetable protecting composition according to claim 3 characterised in that the food product is dry vegetable and fruit. 11. Food protecting …",
+            "priority_date": "2018-04-07",
+            "filing_date": "2018-04-07",
+            "publication_date": "2020-11-12",
+            "inventor": "Dilek UCAR",
+            "assignee": "Ucar Health Gmbh",
+            "publication_number": "AU2018417176A1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/e2/4d/2d/c4c123ddd5b856/AU2018417176A1.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "EP": "NOT_ACTIVE",
+                "US": "NOT_ACTIVE",
+                "CN": "ACTIVE",
+                "AU": "NOT_ACTIVE",
+                "BR": "NOT_ACTIVE",
+                "PH": "UNKNOWN"
+            }
+        },
+        {
+            "position": 15,
+            "rank": 14,
+            "patent_id": "patent/RU2303906C1/en",
+            "patent_link": "https://patents.google.com/patent/RU2303906C1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2303906C1%2Fen",
+            "title": "Method for production of canned stuffed cabbage leaves",
+            "snippet": "A method of preparing canned food, which involves preparing recipe components, cutting and chopping wild poultry meat, cooking, peeling and chopping chestnuts, cutting pig meat, mixing the listed ingredients with table salt, black pepper and nutmeg to produce minced meat, freezing and defrosting …",
+            "priority_date": "2006-02-20",
+            "filing_date": "2006-02-20",
+            "grant_date": "2007-08-10",
+            "publication_date": "2007-08-10",
+            "inventor": "Олег Иванович Квасенков (RU)",
+            "assignee": "Олег Иванович Квасенков",
+            "publication_number": "RU2303906C1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/91/15/fd/03a998721f2510/RU2303906C1.pdf",
+            "country_status": {
+                "RU": "ACTIVE"
+            }
+        },
+        {
+            "position": 16,
+            "rank": 15,
+            "patent_id": "patent/CN103564034B/en",
+            "patent_link": "https://patents.google.com/patent/CN103564034B/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103564034B%2Fen",
+            "title": "A kind of processing method of fresh-cut vegetables",
+            "snippet": "Ultra-high pressure sterilization technology is known as a major revolution in the field of food processing technology, and is listed as one of the top ten cutting-edge technologies in the field of food processing in the 21st century, and has become one of the best alternative technologies for food …",
+            "priority_date": "2013-11-18",
+            "filing_date": "2013-11-18",
+            "grant_date": "2014-12-24",
+            "publication_date": "2014-12-24",
+            "inventor": "章中",
+            "assignee": "宁夏大学",
+            "publication_number": "CN103564034B",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/9b/bd/b4/a094b68016a4e1/CN103564034B.pdf",
+            "country_status": {
+                "CN": "ACTIVE"
+            }
+        },
+        {
+            "position": 17,
+            "rank": 16,
+            "patent_id": "patent/RU2306765C1/en",
+            "patent_link": "https://patents.google.com/patent/RU2306765C1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2306765C1%2Fen",
+            "title": "Method for production of canned soup from vegetables",
+            "snippet": "FIELD: food processing industry, in particular production of canned soup concentrates. SUBSTANCE: claimed method includes potato, turnip, and onion cutting and blanching; carrot blanching and cutting; fresh white cabbage and honey pea cutting and freezing; kidney bean boiling up to mass enhancing …",
+            "priority_date": "2006-03-02",
+            "filing_date": "2006-03-02",
+            "grant_date": "2007-09-27",
+            "publication_date": "2007-09-27",
+            "inventor": "В чеслав Алексеевич Ломачинский (RU)",
+            "assignee": "Всероссийский научно-исследовательский институт консервной и овощесушильной …",
+            "publication_number": "RU2306765C1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/27/1c/7c/67a03761a912a1/RU2306765C1.pdf",
+            "country_status": {
+                "RU": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 18,
+            "rank": 17,
+            "patent_id": "patent/WO2011038245A1/en",
+            "patent_link": "https://patents.google.com/patent/WO2011038245A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2011038245A1%2Fen",
+            "title": "High pressure pasteurizing of frozen ground meats",
+            "snippet": "15. The process of any of claims 1-12, wherein the frozen ground meat is in the form of patties. 16. The process of any of claims 1-13, wherein the frozen ground meat contains additional food inclusions. 17. The process of claim 1 1, wherein the food inclusions are selected from mushrooms, onions, …",
+            "priority_date": "2009-09-25",
+            "filing_date": "2010-09-24",
+            "publication_date": "2011-03-31",
+            "inventor": "Jay David Parker",
+            "assignee": "Cargill, Incorporated",
+            "publication_number": "WO2011038245A1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/ad/38/77/da401f61c63a8b/WO2011038245A1.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "EP": "NOT_ACTIVE",
+                "US": "NOT_ACTIVE",
+                "CN": "ACTIVE",
+                "JP": "ACTIVE",
+                "KR": "NOT_ACTIVE",
+                "AU": "ACTIVE",
+                "CA": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 19,
+            "rank": 18,
+            "patent_id": "patent/DK3313198T3/en",
+            "patent_link": "https://patents.google.com/patent/DK3313198T3/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDK3313198T3%2Fen",
+            "title": "FRUIT SUCCESS FOR A MARINADE",
+            "snippet": "Through the use of a marinade with cream and gelatine, the phosphate-free use of the marinade is supported. Specifically, the cream and the gelatine can be used in the form of a food product, as is known for example from EP 0 805 629 B1. Through such a marinade, the tenderness and the succulence of …",
+            "priority_date": "2015-06-24",
+            "filing_date": "2016-06-23",
+            "grant_date": "2019-03-11",
+            "publication_date": "2019-03-11",
+            "inventor": "Rudolf Haindl",
+            "assignee": "Hama Foodservice Gmbh",
+            "publication_number": "DK3313198T3",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/4e/8f/23/3c29c586a3d74b/DK3313198T3.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "EP": "ACTIVE",
+                "US": "NOT_ACTIVE",
+                "CN": "ACTIVE",
+                "AR": "ACTIVE",
+                "AT": "NOT_ACTIVE",
+                "AU": "ACTIVE",
+                "BR": "NOT_ACTIVE",
+                "DK": "ACTIVE",
+                "ES": "ACTIVE",
+                "HK": "UNKNOWN",
+                "HR": "UNKNOWN",
+                "MX": "UNKNOWN",
+                "NZ": "NOT_ACTIVE",
+                "PL": "UNKNOWN"
+            }
+        },
+        {
+            "position": 20,
+            "rank": 19,
+            "patent_id": "patent/US12156529B2/en",
+            "patent_link": "https://patents.google.com/patent/US12156529B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12156529B2%2Fen",
+            "title": "Liquid condiment containing solid ingredient",
+            "snippet": "The spice extract is not limited as long as it is an extract of a food generally labeled as “spice”. Examples thereof include red pepper extracts, mustard extracts, ginger extracts, wasabi extracts, pepper extracts, garlic extracts, onion extracts, and Japanese pepper extracts. One of these spice …",
+            "priority_date": "2016-09-16",
+            "filing_date": "2019-03-15",
+            "grant_date": "2024-12-03",
+            "publication_date": "2024-12-03",
+            "inventor": "Masaki Ohike",
+            "assignee": "Mizkan Holdings Co., Ltd.",
+            "publication_number": "US12156529B2",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/6b/8f/81/0725d364410534/US12156529.pdf",
+            "country_status": {
+                "WO": "UNKNOWN",
+                "EP": "ACTIVE",
+                "US": "ACTIVE",
+                "JP": "ACTIVE",
+                "SG": "UNKNOWN",
+                "TW": "ACTIVE"
+            }
+        },
+        {
+            "position": 21,
+            "rank": 20,
+            "patent_id": "patent/US10278413B2/en",
+            "patent_link": "https://patents.google.com/patent/US10278413B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10278413B2%2Fen",
+            "title": "Food preparation and method",
+            "snippet": "placing a first food element in a package base; placing a second food element in the package base on top of the first food element; adding a package top to create a package; drawing the first food element around the second food element by vacuum sealing the package; forming a food item in which the …",
+            "priority_date": "2014-02-18",
+            "filing_date": "2017-10-05",
+            "grant_date": "2019-05-07",
+            "publication_date": "2019-05-07",
+            "inventor": "Bruno Bertin",
+            "assignee": "Bruno Bertin",
+            "publication_number": "US10278413B2",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/6e/bf/f8/44537a9f7728bd/US10278413-20190507-D00000.png",
+            "pdf": "https://patentimages.storage.googleapis.com/2c/cd/ce/6ecd2ca3661425/US10278413.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/e7/6b/d3/8eece65dd6cb62/US10278413-20190507-D00000.png",
+                    "full": "https://patentimages.storage.googleapis.com/c6/06/8f/bd7986c25a08fb/US10278413-20190507-D00000.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/a7/63/01/89f0171883455f/US10278413-20190507-D00001.png",
+                    "full": "https://patentimages.storage.googleapis.com/80/0a/a0/3ea5285be1eb10/US10278413-20190507-D00001.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/8a/e6/dc/d56648484c9dc2/US10278413-20190507-D00002.png",
+                    "full": "https://patentimages.storage.googleapis.com/55/a7/77/64568602ff72ec/US10278413-20190507-D00002.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/a8/7b/7e/bec997616328e0/US10278413-20190507-D00003.png",
+                    "full": "https://patentimages.storage.googleapis.com/6f/15/4f/ac520df9056fd1/US10278413-20190507-D00003.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/76/14/c9/6abacfa380d2d6/US10278413-20190507-D00004.png",
+                    "full": "https://patentimages.storage.googleapis.com/16/e0/b4/3d1184896b4748/US10278413-20190507-D00004.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/0e/df/92/a866e80bca641d/US10278413-20190507-D00005.png",
+                    "full": "https://patentimages.storage.googleapis.com/a1/d9/df/74eafdd588f306/US10278413-20190507-D00005.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/7b/44/65/95b910ca176604/US10278413-20190507-D00006.png",
+                    "full": "https://patentimages.storage.googleapis.com/48/63/09/17a241f89bf1c3/US10278413-20190507-D00006.png"
+                }
+            ],
+            "country_status": {
+                "WO": "ACTIVE",
+                "EP": "ACTIVE",
+                "US": "ACTIVE"
+            }
+        },
+        {
+            "position": 22,
+            "rank": 21,
+            "patent_id": "patent/KR102294912B1/en",
+            "patent_link": "https://patents.google.com/patent/KR102294912B1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102294912B1%2Fen",
+            "title": "Manufacturing method of canned vegetables for immediate cooking and canned …",
+            "snippet": "Putting the sealed canned can in a sterilizer, heating at 120 to 130 ℃ for 10 to 20 minutes, cooling with cooling water to sterilize; and After inspecting the sterilized canned food, comprising the step of outer packaging, In the step of pre-treating the herbs The water for soaking the dried herbs …",
+            "priority_date": "2019-10-02",
+            "filing_date": "2019-10-02",
+            "grant_date": "2021-08-26",
+            "publication_date": "2021-08-26",
+            "inventor": "권혁산",
+            "assignee": "권혁산",
+            "publication_number": "KR102294912B1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/74/fe/5c/93e065a95ae3b0/KR102294912B1.pdf",
+            "country_status": {
+                "KR": "ACTIVE"
+            }
+        },
+        {
+            "position": 23,
+            "rank": 22,
+            "patent_id": "patent/US20140272042A1/en",
+            "patent_link": "https://patents.google.com/patent/US20140272042A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140272042A1%2Fen",
+            "title": "Systems and methods for packaging food products",
+            "snippet": ", wherein the heating to deactivate enzymes comprises exposing the food product to steam. 5 . The method of claim 3 , wherein the enzyme deactivation comprises placing the food product in a heated bath. 6 . The method of claim 3 , wherein the internal temperature of the food product is raised to between …",
+            "priority_date": "2013-03-15",
+            "filing_date": "2013-03-15",
+            "publication_date": "2014-09-18",
+            "inventor": "Thomas D. Gillette",
+            "assignee": "Thomas D. Gillette",
+            "publication_number": "US20140272042A1",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/c7/0c/2f/6f2dd4372aa2c6/US20140272042A1-20140918-D00001.png",
+            "pdf": "https://patentimages.storage.googleapis.com/22/d7/9a/3e3ac0e83473fb/US20140272042A1.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/cf/59/35/bbef7a0a3eb6e0/US20140272042A1-20140918-D00001.png",
+                    "full": "https://patentimages.storage.googleapis.com/24/dd/e5/26680b94caec37/US20140272042A1-20140918-D00001.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/de/eb/9a/acb2fef12ad61b/US20140272042A1-20140918-D00002.png",
+                    "full": "https://patentimages.storage.googleapis.com/30/84/0f/905df2a536ead8/US20140272042A1-20140918-D00002.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/49/9f/33/d50265f8d61234/US20140272042A1-20140918-D00003.png",
+                    "full": "https://patentimages.storage.googleapis.com/78/48/20/177bb74252dc74/US20140272042A1-20140918-D00003.png"
+                }
+            ],
+            "country_status": {
+                "US": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 24,
+            "rank": 23,
+            "patent_id": "patent/CN104839599A/en",
+            "patent_link": "https://patents.google.com/patent/CN104839599A/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104839599A%2Fen",
+            "title": "Preparation method of high-quality low-salt pickles",
+            "snippet": "A kind of preparation method of high-quality low-salt kimchi technical field The invention belongs to the technical field of food deep processing, and in particular relates to a method for preparing high-quality low-salt pickles. Background technique Kimchi (pickles) is a lactic acid fermented …",
+            "priority_date": "2015-05-15",
+            "filing_date": "2015-05-15",
+            "publication_date": "2015-08-19",
+            "inventor": "陈芳",
+            "assignee": "中国农业大学",
+            "publication_number": "CN104839599A",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/12/67/cc/fe232bfa9694a4/CN104839599A.pdf",
+            "country_status": {
+                "CN": "ACTIVE"
+            }
+        },
+        {
+            "position": 25,
+            "rank": 24,
+            "patent_id": "patent/CN106261918A/en",
+            "patent_link": "https://patents.google.com/patent/CN106261918A/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106261918A%2Fen",
+            "title": "A kind of manufacture method of canned pork",
+            "snippet": "A kind of manufacture method of canned pork Technical field The present invention relates to food-processing industry, particularly to the manufacture method of a kind of canned pork. Background technology Canned food is a kind of method of sheathing foodstuff, can be tinned drink, including …",
+            "priority_date": "2016-08-29",
+            "filing_date": "2016-08-29",
+            "publication_date": "2017-01-04",
+            "inventor": "黎志春",
+            "assignee": "黎志春",
+            "publication_number": "CN106261918A",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/a0/61/3f/eb41067513fb09/CN106261918A.pdf",
+            "country_status": {
+                "CN": "ACTIVE"
+            }
+        },
+        {
+            "position": 26,
+            "rank": 25,
+            "patent_id": "patent/CN103829184A/en",
+            "patent_link": "https://patents.google.com/patent/CN103829184A/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103829184A%2Fen",
+            "title": "Processing Technology of Purple Potato Tremella Oatmeal Canned",
+            "snippet": "Background technique In daily life, most consumers think that animal food is fresh just after being slaughtered, and plant food is fresh just after being picked. After processing and storage, these foods lose their \"freshness\", and canned food may not be as fresh as the market. However, the most …",
+            "priority_date": "2012-11-26",
+            "filing_date": "2012-11-26",
+            "publication_date": "2014-06-04",
+            "inventor": "不公告发明人",
+            "assignee": "张树林",
+            "publication_number": "CN103829184A",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/8e/f1/78/1e5783e379d444/CN103829184A.pdf",
+            "country_status": {
+                "CN": "ACTIVE"
+            }
+        },
+        {
+            "position": 27,
+            "rank": 26,
+            "patent_id": "patent/JP2017055752A/en",
+            "patent_link": "https://patents.google.com/patent/JP2017055752A/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2017055752A%2Fen",
+            "title": "Method for quickly thawing frozen sushi",
+            "snippet": "Sushi contains many nutrients. It is a high quality protein, taurine, EPA, DHA, chondroitin, protein score, etc., which are contained more than various meats and are evaluated as health foods. The shortcomings of sushi are pointed out to be lack of vegetables, but it is a sushi made from avocado …",
+            "priority_date": "2015-09-14",
+            "filing_date": "2015-09-14",
+            "publication_date": "2017-03-23",
+            "inventor": "寿夫 小林",
+            "assignee": "小林 洋二",
+            "publication_number": "JP2017055752A",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/c6/68/6a/df8712296bcc27/2017055752-4.png",
+            "pdf": "https://patentimages.storage.googleapis.com/a7/ea/b7/5c0ad8cd2e03ae/JP2017055752A.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/8d/02/31/27cdc1ee8a9123/2017055752-4.png",
+                    "full": "https://patentimages.storage.googleapis.com/57/25/de/94bb2f5f70c454/2017055752-4.png"
+                }
+            ],
+            "country_status": {
+                "JP": "ACTIVE"
+            }
+        },
+        {
+            "position": 28,
+            "rank": 27,
+            "patent_id": "patent/CN114982914A/en",
+            "patent_link": "https://patents.google.com/patent/CN114982914A/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114982914A%2Fen",
+            "title": "Instant chicken breast and preparation method thereof",
+            "snippet": "Chicken meat is an extremely important part of poultry meat, has the nutritional characteristics of high protein, low calorie, low cholesterol and low fat, and is called as a \"source of nutrition\". The chicken breast is a food which is popular among people, and is an optimal snack for leisure, …",
+            "priority_date": "2021-12-31",
+            "filing_date": "2021-12-31",
+            "publication_date": "2022-09-02",
+            "inventor": "冷山蒲",
+            "assignee": "广东好味来食品有限公司",
+            "publication_number": "CN114982914A",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/8b/8c/55/d11a7c75bd6925/CN114982914A.pdf",
+            "country_status": {
+                "CN": "ACTIVE"
+            }
+        },
+        {
+            "position": 29,
+            "rank": 28,
+            "patent_id": "patent/KR101382434B1/en",
+            "patent_link": "https://patents.google.com/patent/KR101382434B1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101382434B1%2Fen",
+            "title": "The manufacturing method of ready-to-eat samgyetung",
+            "snippet": "Temperature 1 ) Guideline 2 ) cooking 85 ° C, 52 minutes UK ACMSF a , UK ECFF b Rapid cooling Below 3 ℃ within 120 minutes UK DHSS c Rapid cooling Below 5 ℃ Food code, FDA d Reheating Less than 75 ℃ within 301 minutes UK DHSSc Sensory test Below 63 ℃ within 15 minutes UK DHSSc 1) Safety of food …",
+            "priority_date": "2012-12-31",
+            "filing_date": "2012-12-31",
+            "grant_date": "2014-04-09",
+            "publication_date": "2014-04-09",
+            "inventor": "조은경",
+            "assignee": "(주)다손",
+            "publication_number": "KR101382434B1",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/5e/71/40/9bd59eaab5925f/112012109732515-pat00013.png",
+            "pdf": "https://patentimages.storage.googleapis.com/07/51/25/bb31ea3a90661f/KR101382434B1.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/ff/36/69/a3ea5b17a56b4d/112012109732515-pat00013.png",
+                    "full": "https://patentimages.storage.googleapis.com/9b/20/a2/2c79ca8e8dedcd/112012109732515-pat00013.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/12/c5/38/b3ecf4d9301c82/112012109732515-pat00014.png",
+                    "full": "https://patentimages.storage.googleapis.com/d7/a8/ef/19daa74a61d42a/112012109732515-pat00014.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/0a/f5/b9/1fee45f0c6b0bb/112012109732515-pat00015.png",
+                    "full": "https://patentimages.storage.googleapis.com/28/4d/e6/1a45c6c09f1ca0/112012109732515-pat00015.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/84/a6/df/3ab666d6eb3122/112012109732515-pat00016.png",
+                    "full": "https://patentimages.storage.googleapis.com/10/41/35/a99593dfa9c4a6/112012109732515-pat00016.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/bd/5f/7c/7a4fc88a87108c/112012109732515-pat00017.png",
+                    "full": "https://patentimages.storage.googleapis.com/b9/0b/72/754a1a125ad3fd/112012109732515-pat00017.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/cd/ab/17/1c8b30a136d013/112012109732515-pat00018.png",
+                    "full": "https://patentimages.storage.googleapis.com/65/4d/f9/e9df34b3a94416/112012109732515-pat00018.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/98/e5/13/ad95d018ea7b45/112012109732515-pat00019.png",
+                    "full": "https://patentimages.storage.googleapis.com/54/b7/ee/fa3019c867bf07/112012109732515-pat00019.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/78/ae/0b/1d02eb6a49f183/112012109732515-pat00020.png",
+                    "full": "https://patentimages.storage.googleapis.com/4f/d7/7e/928f7fb8739f48/112012109732515-pat00020.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/ab/83/03/614a93c34f386f/112012109732515-pat00021.png",
+                    "full": "https://patentimages.storage.googleapis.com/b4/83/b5/d1f94900172a75/112012109732515-pat00021.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/28/91/e3/72a8aa1d548fb7/112012109732515-pat00022.png",
+                    "full": "https://patentimages.storage.googleapis.com/b7/49/fc/f030c2f8908101/112012109732515-pat00022.png"
+                }
+            ],
+            "country_status": {
+                "KR": "ACTIVE"
+            }
+        },
+        {
+            "position": 30,
+            "rank": 29,
+            "patent_id": "patent/MX2019009667A/en",
+            "patent_link": "https://patents.google.com/patent/MX2019009667A/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FMX2019009667A%2Fen",
+            "title": "Packaged food product with vegetable components.",
+            "snippet": "A packaged food product (10) and methods of making and using it. In some embodiments the packaged food product may comprise a cup (20) containing multiple ingredients in sealed pouches (38) suitable for use in making an omelet or other egg-based entrees, with the cup being suitable for microwave …",
+            "priority_date": "2017-02-14",
+            "filing_date": "2017-12-28",
+            "publication_date": "2019-12-16",
+            "inventor": "Catherine BROWN Rachel",
+            "assignee": "Kraft Foods Group Brands Llc",
+            "publication_number": "MX2019009667A",
+            "language": "en",
+            "country_status": {
+                "WO": "UNKNOWN",
+                "EP": "ACTIVE",
+                "US": "NOT_ACTIVE",
+                "CN": "ACTIVE",
+                "JP": "ACTIVE",
+                "KR": "NOT_ACTIVE",
+                "AU": "NOT_ACTIVE",
+                "BR": "NOT_ACTIVE",
+                "CA": "ACTIVE",
+                "MX": "UNKNOWN"
+            }
+        },
+        {
+            "position": 31,
+            "rank": 30,
+            "patent_id": "patent/US20220361514A1/en",
+            "patent_link": "https://patents.google.com/patent/US20220361514A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220361514A1%2Fen",
+            "title": "Integrated heating and cooling food processing system",
+            "snippet": "A food processing system is provided with: a heating unit equipped with a heating mechanism for indirectly heating food; a cooling unit equipped with an air blowing cooler for cooling the food heated by the heating unit; and a conveyor for transferring the food through the heating unit and the …",
+            "priority_date": "2015-03-13",
+            "filing_date": "2022-07-29",
+            "publication_date": "2022-11-17",
+            "inventor": "Ikuo Ota",
+            "assignee": "Hakubai Co., Ltd.",
+            "publication_number": "US20220361514A1",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/77/28/01/beb4daef1236e4/US20220361514A1-20221117-D00000.png",
+            "pdf": "https://patentimages.storage.googleapis.com/4b/0a/75/50e25c2cbf96df/US20220361514A1.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/19/ee/27/5149c33c2a6c45/US20220361514A1-20221117-D00000.png",
+                    "full": "https://patentimages.storage.googleapis.com/1a/7c/2f/0b930b1223e119/US20220361514A1-20221117-D00000.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/5b/2e/0e/28a3e6903d5fdc/US20220361514A1-20221117-D00001.png",
+                    "full": "https://patentimages.storage.googleapis.com/7b/2b/2f/5b8f62c4f84cca/US20220361514A1-20221117-D00001.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/29/33/6b/8fc280110c9934/US20220361514A1-20221117-D00002.png",
+                    "full": "https://patentimages.storage.googleapis.com/96/0c/87/e5da936745686c/US20220361514A1-20221117-D00002.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/8e/53/92/df25a22e5bb310/US20220361514A1-20221117-D00003.png",
+                    "full": "https://patentimages.storage.googleapis.com/2d/23/91/fb7ad1e9654d50/US20220361514A1-20221117-D00003.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/1a/7a/36/6e5d8a5ef6b18a/US20220361514A1-20221117-D00004.png",
+                    "full": "https://patentimages.storage.googleapis.com/a5/e8/3d/0e2a685fcbf4b3/US20220361514A1-20221117-D00004.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/7e/42/f8/957f02a1108f6b/US20220361514A1-20221117-D00005.png",
+                    "full": "https://patentimages.storage.googleapis.com/f7/79/f1/0a362de488b6ee/US20220361514A1-20221117-D00005.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/39/b7/ba/19f88fbb305f15/US20220361514A1-20221117-D00006.png",
+                    "full": "https://patentimages.storage.googleapis.com/33/85/b7/4a0991fabc3e2d/US20220361514A1-20221117-D00006.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/cd/5c/0e/af57f083af6bd5/US20220361514A1-20221117-D00007.png",
+                    "full": "https://patentimages.storage.googleapis.com/6a/a9/3f/7b343a295e31e7/US20220361514A1-20221117-D00007.png"
+                }
+            ],
+            "country_status": {
+                "WO": "ACTIVE",
+                "US": "NOT_ACTIVE",
+                "KR": "NOT_ACTIVE",
+                "ES": "ACTIVE"
+            }
+        },
+        {
+            "position": 32,
+            "rank": 31,
+            "patent_id": "patent/JP5922396B2/en",
+            "patent_link": "https://patents.google.com/patent/JP5922396B2/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5922396B2%2Fen",
+            "title": "Food life improvement agent and processed food containing the food life …",
+            "snippet": "Phytic acid, It contains an organic acid other than phytic acid or a salt thereof or an amino acid, A food shelf life improver , The antioxidant is ferulic acid, The organic acid other than phytic acid or a salt or amino acid thereof is at least one selected from the group consisting of acetic acid …",
+            "priority_date": "2011-12-20",
+            "filing_date": "2011-12-20",
+            "grant_date": "2016-05-24",
+            "publication_date": "2016-05-24",
+            "inventor": "浩一 勝山",
+            "assignee": "アサマ化成株式会社",
+            "publication_number": "JP5922396B2",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/55/24/c5/8e85c12484e106/JP5922396B2.pdf",
+            "country_status": {
+                "JP": "ACTIVE"
+            }
+        },
+        {
+            "position": 33,
+            "rank": 32,
+            "patent_id": "patent/KR101425877B1/en",
+            "patent_link": "https://patents.google.com/patent/KR101425877B1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101425877B1%2Fen",
+            "title": "Cooking process of pork",
+            "snippet": "For example, when a cooking vessel including a lid integrally formed without a steam hole is used, water vapor generated from the food material inside the cooking vessel forms a film to make it into a semi-vacuum state, but there is no hole for discharging steam, There is a risk that the lid will …",
+            "priority_date": "2014-02-13",
+            "filing_date": "2014-02-13",
+            "grant_date": "2014-08-05",
+            "publication_date": "2014-08-05",
+            "inventor": "이시영",
+            "assignee": "휘슬러코리아 주식회사",
+            "publication_number": "KR101425877B1",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/39/90/94/f2ddc36484a804/112014014182353-pat00001.png",
+            "pdf": "https://patentimages.storage.googleapis.com/ae/4d/9a/a4726e6f0f61ff/KR101425877B1.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/94/31/7d/b9595470c96d76/112014014182353-pat00001.png",
+                    "full": "https://patentimages.storage.googleapis.com/de/79/b1/5484b1a9ebec36/112014014182353-pat00001.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/a7/44/b6/0e85c375442510/112014014182353-pat00002.png",
+                    "full": "https://patentimages.storage.googleapis.com/32/01/31/1b185b83af4ba8/112014014182353-pat00002.png"
+                }
+            ],
+            "country_status": {
+                "KR": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 34,
+            "rank": 33,
+            "patent_id": "patent/US20220315312A1/en",
+            "patent_link": "https://patents.google.com/patent/US20220315312A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220315312A1%2Fen",
+            "title": "Food preparation method",
+            "snippet": "20 . A method of preparing a food item, comprising the steps: placing uncooked ground meat and two cooked portions of a bun in a package, without sealing the two cooked portions of the bun to anything in the package; vacuum sealing the package without sealing the two cooked portions of the bun to …",
+            "priority_date": "2021-03-31",
+            "filing_date": "2021-03-31",
+            "publication_date": "2022-10-06",
+            "inventor": "Julien Vanderlynden",
+            "assignee": "Cuisine Solutions, Inc.",
+            "publication_number": "US20220315312A1",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/81/67/9f/9391af98b5abce/US20220315312A1-20221006-D00000.png",
+            "pdf": "https://patentimages.storage.googleapis.com/b4/b1/81/ab903de6522e2b/US20220315312A1.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/98/18/a1/918ec4c138dc94/US20220315312A1-20221006-D00000.png",
+                    "full": "https://patentimages.storage.googleapis.com/e3/a6/f1/274332186997e0/US20220315312A1-20221006-D00000.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/4a/35/7e/a1c4c942c8ae15/US20220315312A1-20221006-D00001.png",
+                    "full": "https://patentimages.storage.googleapis.com/28/e3/2d/2ff0e809a91c1c/US20220315312A1-20221006-D00001.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/6f/05/6a/c20b0258b6e3e7/US20220315312A1-20221006-D00002.png",
+                    "full": "https://patentimages.storage.googleapis.com/97/de/ba/765856858292ed/US20220315312A1-20221006-D00002.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/42/f4/0c/ab889e6df27c75/US20220315312A1-20221006-D00003.png",
+                    "full": "https://patentimages.storage.googleapis.com/1f/46/28/6a675588ea0fc1/US20220315312A1-20221006-D00003.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/42/c0/b0/522b2aa8824da9/US20220315312A1-20221006-D00004.png",
+                    "full": "https://patentimages.storage.googleapis.com/6b/21/93/c09a587b4a73b5/US20220315312A1-20221006-D00004.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/0a/cc/89/ce1b8dfcdbe611/US20220315312A1-20221006-D00005.png",
+                    "full": "https://patentimages.storage.googleapis.com/dc/07/5f/a08ce17b57ce93/US20220315312A1-20221006-D00005.png"
+                }
+            ],
+            "country_status": {
+                "US": "ACTIVE"
+            }
+        },
+        {
+            "position": 35,
+            "rank": 34,
+            "patent_id": "patent/WO2014070658A1/en",
+            "patent_link": "https://patents.google.com/patent/WO2014070658A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014070658A1%2Fen",
+            "title": "Method for pasteurizing ground poultry",
+            "snippet": "WHAT IS CLAIMED IS: 1. A process for preserving fresh ground poultry meat comprising the steps of: a) packaging fresh ground poultry meat in a sealed package together with one or more non- synthetic antimicrobial; b) placing the packaged fresh ground poultry meat in a pressurization vessel and …",
+            "priority_date": "2012-10-29",
+            "filing_date": "2013-10-28",
+            "publication_date": "2014-05-08",
+            "inventor": "Nicole A. BROWNE",
+            "assignee": "Cargill, Incorporated",
+            "publication_number": "WO2014070658A1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/22/7c/d8/35fedaa3234790/WO2014070658A1.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "US": "NOT_ACTIVE",
+                "CA": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 36,
+            "rank": 35,
+            "patent_id": "patent/TWI708565B/en",
+            "patent_link": "https://patents.google.com/patent/TWI708565B/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTWI708565B%2Fen",
+            "title": "Refrigerated food or frozen food, its manufacturing method and improvement …",
+            "snippet": "A method for improving the texture of frozen foods or frozen foods, which includes the following steps: removing lactic acid bacteria cells and yeast cells (lactic acid bacteria/ Refrigerated food or frozen food is obtained by refrigerating or freezing the heated and conditioned food of the yeast;",
+            "priority_date": "2015-07-21",
+            "filing_date": "2016-07-21",
+            "grant_date": "2020-11-01",
+            "publication_date": "2020-11-01",
+            "inventor": "小川真悟",
+            "assignee": "日商泰寶美客股份有限公司",
+            "publication_number": "TWI708565B",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/8e/a9/e4/e51bdf417b3111/105123094-A0202-14-0001-43.png",
+            "pdf": "https://patentimages.storage.googleapis.com/a7/e4/a4/1ff00ecc2eb27e/TWI708565B.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/ba/55/2a/fdd2e2a13c619c/105123094-A0202-14-0001-43.png",
+                    "full": "https://patentimages.storage.googleapis.com/d4/a6/1b/90bca50f05dac2/105123094-A0202-14-0001-43.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/a4/85/3a/f655d203cd752a/105123094-A0202-14-0001-44.png",
+                    "full": "https://patentimages.storage.googleapis.com/a5/03/67/b4f912cd44ac2e/105123094-A0202-14-0001-44.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/60/32/34/aa394dfc1df9f0/105123094-A0202-14-0002-45.png",
+                    "full": "https://patentimages.storage.googleapis.com/41/9a/70/902711326ddaff/105123094-A0202-14-0002-45.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/48/05/13/47b8c6f5c43f2c/105123094-A0202-14-0002-46.png",
+                    "full": "https://patentimages.storage.googleapis.com/f2/49/a3/1032fd7e402ccc/105123094-A0202-14-0002-46.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/dc/d6/c6/4abc883b479a5b/105123094-A0202-14-0003-47.png",
+                    "full": "https://patentimages.storage.googleapis.com/6d/75/80/19d529524d6b54/105123094-A0202-14-0003-47.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/db/58/95/1e44b4211be2da/105123094-A0202-14-0003-48.png",
+                    "full": "https://patentimages.storage.googleapis.com/81/db/bd/e56c2ead8e08c5/105123094-A0202-14-0003-48.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/b9/47/89/8c616ab845d2ac/105123094-A0202-14-0004-49.png",
+                    "full": "https://patentimages.storage.googleapis.com/2a/fe/4f/7012419fe1eb56/105123094-A0202-14-0004-49.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/4f/06/95/c5629d6528d7c5/105123094-A0202-14-0004-50.png",
+                    "full": "https://patentimages.storage.googleapis.com/29/19/51/6a8064d452ed98/105123094-A0202-14-0004-50.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/ab/82/40/2eef1ed448bb42/105123094-A0202-14-0005-51.png",
+                    "full": "https://patentimages.storage.googleapis.com/45/5a/ec/1747a0ec75e55a/105123094-A0202-14-0005-51.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/d2/4a/d9/11ac5405a63b52/105123094-A0202-14-0005-52.png",
+                    "full": "https://patentimages.storage.googleapis.com/6a/c0/81/8cdcfbf8df2f1f/105123094-A0202-14-0005-52.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/33/a4/34/5c5a29ff2d79f2/105123094-A0202-14-0005-53.png",
+                    "full": "https://patentimages.storage.googleapis.com/93/24/7c/43f6c169be790f/105123094-A0202-14-0005-53.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/bb/44/d7/c335c621ec9262/105123094-A0202-14-0006-54.png",
+                    "full": "https://patentimages.storage.googleapis.com/15/27/67/5d57409629675b/105123094-A0202-14-0006-54.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/7b/e7/f5/24d95df536b6bd/105123094-A0202-14-0006-55.png",
+                    "full": "https://patentimages.storage.googleapis.com/65/e4/d3/39bbded0b0a47e/105123094-A0202-14-0006-55.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/87/f6/29/2ecdd5ba7744c9/105123094-A0202-14-0007-56.png",
+                    "full": "https://patentimages.storage.googleapis.com/09/df/44/19abc67fb5efcd/105123094-A0202-14-0007-56.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/a3/19/33/c58624375555bb/105123094-A0202-14-0007-57.png",
+                    "full": "https://patentimages.storage.googleapis.com/56/74/92/b580d36bad9e65/105123094-A0202-14-0007-57.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/26/88/9c/f285207694fbd4/105123094-A0202-14-0007-58.png",
+                    "full": "https://patentimages.storage.googleapis.com/a3/4a/fd/b6865d521c7503/105123094-A0202-14-0007-58.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/2c/d5/25/e68b8f6b43db80/105123094-A0202-14-0007-59.png",
+                    "full": "https://patentimages.storage.googleapis.com/c7/7e/39/1cead43dcf746b/105123094-A0202-14-0007-59.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/d5/25/6e/d5ace932046894/105123094-A0202-14-0008-60.png",
+                    "full": "https://patentimages.storage.googleapis.com/2e/bc/6a/1034b63499d164/105123094-A0202-14-0008-60.png"
+                }
+            ],
+            "country_status": {
+                "WO": "ACTIVE",
+                "CN": "ACTIVE",
+                "JP": "ACTIVE",
+                "KR": "NOT_ACTIVE",
+                "TW": "ACTIVE"
+            }
+        },
+        {
+            "position": 37,
+            "rank": 36,
+            "patent_id": "patent/US20200236958A1/en",
+            "patent_link": "https://patents.google.com/patent/US20200236958A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200236958A1%2Fen",
+            "title": "Frozen vegetable",
+            "snippet": "15 . The frozen food according to claim 9 , further comprising an ingredient and/or a flavoring component. 16 . The frozen food according to claim 10 , further comprising an ingredient and/or a flavoring component. 17 . The frozen food according to claim 11 , further comprising an ingredient and/or a …",
+            "priority_date": "2017-02-28",
+            "filing_date": "2018-02-27",
+            "publication_date": "2020-07-30",
+            "inventor": "Kosuke Yamada",
+            "assignee": "Nichirei Foods Inc.",
+            "publication_number": "US20200236958A1",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/09/5a/96/2bdce786e1d9e3/US20200236958A1-20200730-D00000.png",
+            "pdf": "https://patentimages.storage.googleapis.com/4f/a7/6c/fa8ad53850f650/US20200236958A1.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/69/fa/ed/1668160ff2a0c9/US20200236958A1-20200730-D00000.png",
+                    "full": "https://patentimages.storage.googleapis.com/82/4c/17/23afdc3f1ebf8a/US20200236958A1-20200730-D00000.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/39/32/f5/b36388aeab3ee6/US20200236958A1-20200730-D00001.png",
+                    "full": "https://patentimages.storage.googleapis.com/97/b9/4c/00e589573d19e3/US20200236958A1-20200730-D00001.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/94/60/23/5d6752a142ecbf/US20200236958A1-20200730-D00002.png",
+                    "full": "https://patentimages.storage.googleapis.com/bd/d9/f6/00d1996416da60/US20200236958A1-20200730-D00002.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/c4/9e/a0/d3dccf520bb9cb/US20200236958A1-20200730-D00003.png",
+                    "full": "https://patentimages.storage.googleapis.com/15/ed/32/6ceb1134e7ae7d/US20200236958A1-20200730-D00003.png"
+                }
+            ],
+            "country_status": {
+                "WO": "ACTIVE",
+                "US": "NOT_ACTIVE",
+                "CN": "ACTIVE",
+                "JP": "ACTIVE"
+            }
+        },
+        {
+            "position": 38,
+            "rank": 37,
+            "patent_id": "patent/CN106722259A/en",
+            "patent_link": "https://patents.google.com/patent/CN106722259A/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106722259A%2Fen",
+            "title": "The preparation method that a kind of instant type pig tongue facilitates …",
+            "snippet": "The preparation method that a kind of instant type pig tongue facilitates product Technical field The invention belongs to food processing technology field, it is related to a kind of pork product, and in particular to a kind of instant type pig tongue The preparation method for facilitating …",
+            "priority_date": "2016-11-24",
+            "filing_date": "2016-11-24",
+            "publication_date": "2017-05-31",
+            "inventor": "黄义灯",
+            "assignee": "安徽新梦想食品有限公司",
+            "publication_number": "CN106722259A",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/c6/e7/d8/2f932ffc8cb5fd/CN106722259A.pdf",
+            "country_status": {
+                "CN": "ACTIVE"
+            }
+        },
+        {
+            "position": 39,
+            "rank": 38,
+            "patent_id": "patent/AU2018417177A1/en",
+            "patent_link": "https://patents.google.com/patent/AU2018417177A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2018417177A1%2Fen",
+            "title": "Food protecting composition for meat, meat products and dairy products",
+            "snippet": "12. Food protecting composition according to claim 3 characterised in that the food product is dry fish and cheecken. 13. Food protecting composition according to claim 3 characterised in that the food product is cattle, pig, chicken solid and liquid product. 14. Food protecting composition …",
+            "priority_date": "2018-04-07",
+            "filing_date": "2018-04-07",
+            "publication_date": "2020-11-12",
+            "inventor": "Dilek UCAR",
+            "assignee": "Ucar Health Gmbh",
+            "publication_number": "AU2018417177A1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/81/62/da/cea8298d964193/AU2018417177A1.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "EP": "NOT_ACTIVE",
+                "US": "NOT_ACTIVE",
+                "CN": "ACTIVE",
+                "AU": "NOT_ACTIVE",
+                "BR": "NOT_ACTIVE",
+                "PH": "UNKNOWN"
+            }
+        },
+        {
+            "position": 40,
+            "rank": 39,
+            "patent_id": "patent/KR20180119821A/en",
+            "patent_link": "https://patents.google.com/patent/KR20180119821A/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20180119821A%2Fen",
+            "title": "Sous Vide using brasing pork",
+            "snippet": "SUBIVID is a cookware that makes it possible to cook food while preserving flavor and juice of taste with low-temperature heating. As the temperature increases Water is boiled at higher temperatures, so it is advantageous to boil or degrade the material at temperatures lower than normal steam. In …",
+            "priority_date": "2017-04-26",
+            "filing_date": "2017-04-26",
+            "publication_date": "2018-11-05",
+            "inventor": "은용기",
+            "assignee": "은용기",
+            "publication_number": "KR20180119821A",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/21/dc/90/1f9dcaf8cde404/pat00002.png",
+            "pdf": "https://patentimages.storage.googleapis.com/3f/61/f8/886d0f8e9af985/KR20180119821A.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/c4/0d/ec/4fe0e5bb0e8da6/pat00002.png",
+                    "full": "https://patentimages.storage.googleapis.com/ba/30/3f/42330e7ff801fe/pat00002.png"
+                }
+            ],
+            "country_status": {
+                "KR": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 41,
+            "rank": 40,
+            "patent_id": "patent/RU2557217C1/en",
+            "patent_link": "https://patents.google.com/patent/RU2557217C1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2557217C1%2Fen",
+            "title": "Method for preparation of thermally treated omelette ready for baking",
+            "snippet": "1. A method of manufacturing a heat-treated omelet ready to eat, comprising preparing a liquid omelet mix, packaging and preservation, characterized in that the liquid omelet mix is Packed under pressure in a plastic container from a food coextrusion film, hermetically sealed and adjusted to the …",
+            "priority_date": "2014-02-10",
+            "filing_date": "2014-02-10",
+            "grant_date": "2015-07-20",
+            "publication_date": "2015-07-20",
+            "inventor": "Ольга Анатольевна Ларина",
+            "assignee": "Ольга Анатольевна Ларина",
+            "publication_number": "RU2557217C1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/31/7c/d7/747fbcdb454bf1/RU2557217C1.pdf",
+            "country_status": {
+                "RU": "ACTIVE"
+            }
+        },
+        {
+            "position": 42,
+            "rank": 41,
+            "patent_id": "patent/US20150064322A1/en",
+            "patent_link": "https://patents.google.com/patent/US20150064322A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150064322A1%2Fen",
+            "title": "Process for processing animal protein product into cooked, sliced form",
+            "snippet": "A process for processing animal protein product involves cutting an unpasteurized piece of the product into slices, vacuum sealing the sliced unpasteurized product in a pouch with the slices stacked tightly together, cooking the vacuum sealed product to at least its pasteurization temperature …",
+            "priority_date": "2010-10-26",
+            "filing_date": "2014-11-18",
+            "publication_date": "2015-03-05",
+            "inventor": "Jean-Pierre GUILLAUD",
+            "assignee": "Cuisine Solutions, Inc.",
+            "publication_number": "US20150064322A1",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/19/8b/8f/6b4ba60de7b3cc/US20150064322A1-20150305-D00001.png",
+            "pdf": "https://patentimages.storage.googleapis.com/f3/0f/3a/11631286b501be/US20150064322A1.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/64/db/f8/4f9c8f798508f9/US20150064322A1-20150305-D00001.png",
+                    "full": "https://patentimages.storage.googleapis.com/5f/57/f4/8a8f5e8706ab6b/US20150064322A1-20150305-D00001.png"
+                }
+            ],
+            "country_status": {
+                "WO": "ACTIVE",
+                "EP": "ACTIVE",
+                "US": "NOT_ACTIVE",
+                "CA": "ACTIVE",
+                "DK": "ACTIVE",
+                "ES": "ACTIVE"
+            }
+        },
+        {
+            "position": 43,
+            "rank": 42,
+            "patent_id": "patent/KR101695178B1/en",
+            "patent_link": "https://patents.google.com/patent/KR101695178B1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101695178B1%2Fen",
+            "title": "Instant frozen starch noodle mixed with meat and vegetables",
+            "snippet": "According to the present invention, the quick-frozen tea according to the present invention is a simple food which can be easily eaten in a short time by a simple cooking device such as a microwave oven, which can not be eaten easily because of a lot of manual labor and is troublesome. It is not …",
+            "priority_date": "2015-02-04",
+            "filing_date": "2015-02-04",
+            "grant_date": "2017-01-11",
+            "publication_date": "2017-01-11",
+            "inventor": "조송연",
+            "assignee": "조송연",
+            "publication_number": "KR101695178B1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/78/1d/fa/8dbce56f627131/KR101695178B1.pdf",
+            "country_status": {
+                "KR": "ACTIVE"
+            }
+        },
+        {
+            "position": 44,
+            "rank": 43,
+            "patent_id": "patent/RU2360550C1/en",
+            "patent_link": "https://patents.google.com/patent/RU2360550C1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2360550C1%2Fen",
+            "title": "Production method of preserves \"collops with sour cream sauce and onions\"",
+            "snippet": "A method of preparing canned food, which involves preparing the recipe components, soaking in milk and chopping wheat bread, cutting and chopping meat, mixing the listed components with table salt and bitter black pepper to obtain a cutlet mass, molding it, breading in wheat bread crumbs and frying …",
+            "priority_date": "2008-02-05",
+            "filing_date": "2008-02-05",
+            "grant_date": "2009-07-10",
+            "publication_date": "2009-07-10",
+            "inventor": "Олег Иванович Квасенков (RU)",
+            "assignee": "Олег Иванович Квасенков",
+            "publication_number": "RU2360550C1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/0f/9c/22/bdcb5ad26b4218/RU2360550C1.pdf",
+            "country_status": {
+                "RU": "ACTIVE"
+            }
+        },
+        {
+            "position": 45,
+            "rank": 44,
+            "patent_id": "patent/US20140113041A1/en",
+            "patent_link": "https://patents.google.com/patent/US20140113041A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140113041A1%2Fen",
+            "title": "Method of processing meat to enhance moisture retention",
+            "snippet": "BACKGROUND OF THE INVENTION By weight, water constitutes the largest portion of a food animal. The amount of water is usually found in the range 70-80%. Part of this water is found in free form while the rest is bound to proteins, especially myofibrillar proteins, through charged and polar groups.",
+            "priority_date": "2007-06-27",
+            "filing_date": "2013-08-01",
+            "publication_date": "2014-04-24",
+            "inventor": "Chris J. Topps",
+            "assignee": "Qst Ingredients And Packaging, Inc.",
+            "publication_number": "US20140113041A1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/35/88/7f/8ecd70b343b815/US20140113041A1.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "US": "NOT_ACTIVE",
+                "MX": "NOT_ACTIVE"
+            }
+        },
+        {
+            "position": 46,
+            "rank": 45,
+            "patent_id": "patent/US20130092035A1/en",
+            "patent_link": "https://patents.google.com/patent/US20130092035A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130092035A1%2Fen",
+            "title": "Food bringing apparatus",
+            "snippet": "A food brining apparatus is described that consists of a vessel for containing the brining solution and foodstuff, a series of paired inwardly extending tabs against which a foodstuff submergence retention means is vertically positioned to retain the foodstuff entirely submerged in the brining …",
+            "priority_date": "2011-10-18",
+            "filing_date": "2011-10-18",
+            "publication_date": "2013-04-18",
+            "inventor": "Thomas G. Painter, JR.",
+            "assignee": "Thomas G. Painter, JR.",
+            "publication_number": "US20130092035A1",
+            "language": "en",
+            "thumbnail": "https://patentimages.storage.googleapis.com/45/01/58/bfcb5b8992b17a/US20130092035A1-20130418-D00000.png",
+            "pdf": "https://patentimages.storage.googleapis.com/19/e5/b7/920c4a3fc09d12/US20130092035A1.pdf",
+            "figures": [
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/3d/68/8c/885867b5256d8f/US20130092035A1-20130418-D00000.png",
+                    "full": "https://patentimages.storage.googleapis.com/1a/b5/96/2342952e9d0e05/US20130092035A1-20130418-D00000.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/f5/9f/a1/c22b6fe14a81ea/US20130092035A1-20130418-D00001.png",
+                    "full": "https://patentimages.storage.googleapis.com/82/e2/91/9bd20d88d6c630/US20130092035A1-20130418-D00001.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/6a/86/8d/9228f2c95d0917/US20130092035A1-20130418-D00002.png",
+                    "full": "https://patentimages.storage.googleapis.com/6b/c6/97/05376474e5e45a/US20130092035A1-20130418-D00002.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/c7/26/86/6cd5b0eef122ce/US20130092035A1-20130418-D00003.png",
+                    "full": "https://patentimages.storage.googleapis.com/5f/a7/18/78379bc66ad77a/US20130092035A1-20130418-D00003.png"
+                },
+                {
+                    "thumbnail": "https://patentimages.storage.googleapis.com/54/b2/e2/b337cac6257ff2/US20130092035A1-20130418-D00004.png",
+                    "full": "https://patentimages.storage.googleapis.com/9b/ca/05/d2c6ead5cf1c19/US20130092035A1-20130418-D00004.png"
+                }
+            ],
+            "country_status": {
+                "US": "ACTIVE"
+            }
+        },
+        {
+            "position": 47,
+            "rank": 46,
+            "patent_id": "patent/JP2016129508A/en",
+            "patent_link": "https://patents.google.com/patent/JP2016129508A/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2016129508A%2Fen",
+            "title": "Taste modifier",
+            "snippet": "A taste improver for improving the balance of the taste of food, comprising 1,5-D-anhydrofructose subjected to heat treatment. The taste improver according to claim 1, wherein the heat treatment is performed within a range of 60 to 150 ° C. The taste improver according to claim 1 or 2, wherein the …",
+            "priority_date": "2015-01-14",
+            "filing_date": "2015-01-14",
+            "publication_date": "2016-07-21",
+            "inventor": "瑞夫 矢嶋",
+            "assignee": "アサマ化成株式会社",
+            "publication_number": "JP2016129508A",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/ff/0d/cf/66fc0f696ce56e/JP2016129508A.pdf",
+            "country_status": {
+                "JP": "ACTIVE"
+            }
+        },
+        {
+            "position": 48,
+            "rank": 47,
+            "patent_id": "patent/TW201526794A/en",
+            "patent_link": "https://patents.google.com/patent/TW201526794A/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTW201526794A%2Fen",
+            "title": "Method for producing safe pasteurized shrimp and other shellfish with high …",
+            "snippet": "For example, in order to ensure the safety of pasteurized shrimp sold to the consuming public in a tightly sealed flexible or rigid container, thermal processing sufficient to eliminate bacteria in the food, including non-proteolytic botulinum fusiform Clostridium botulinum bacteria, the most …",
+            "priority_date": "2014-01-10",
+            "filing_date": "2015-01-09",
+            "publication_date": "2015-07-16",
+            "inventor": "Robert B Stryker",
+            "assignee": "Robert B Stryker",
+            "publication_number": "TW201526794A",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/3c/ef/da/aca22d74a8b3bd/TW201526794A.pdf",
+            "country_status": {
+                "WO": "ACTIVE",
+                "US": "ACTIVE",
+                "CN": "ACTIVE",
+                "EC": "UNKNOWN",
+                "MX": "UNKNOWN",
+                "TW": "UNKNOWN"
+            }
+        },
+        {
+            "position": 49,
+            "rank": 48,
+            "patent_id": "patent/EP2335487A1/en",
+            "patent_link": "https://patents.google.com/patent/EP2335487A1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2335487A1%2Fen",
+            "title": "Method for preserving capsicum annuum L. pepper",
+            "snippet": "The method for preserving Capsicum annuum L. pepper of claim 1, characterized in that the packing is performed under vacuum and in a flexible container. The method for preserving Capsicum annuum L. pepper of claim 1 or 2, characterized in that the packing is performed in a protective atmosphere and …",
+            "priority_date": "2009-12-21",
+            "filing_date": "2010-12-15",
+            "publication_date": "2011-06-22",
+            "inventor": "Segio José Ramos Lopez",
+            "assignee": "Olus Technologia, SL",
+            "publication_number": "EP2335487A1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/e1/6f/33/3b53cbd8be300b/EP2335487A1.pdf",
+            "country_status": {
+                "EP": "NOT_ACTIVE",
+                "ES": "ACTIVE"
+            }
+        },
+        {
+            "position": 50,
+            "rank": 49,
+            "patent_id": "patent/RU2362421C1/en",
+            "patent_link": "https://patents.google.com/patent/RU2362421C1/en",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2362421C1%2Fen",
+            "title": "Production method for tinned food \"collops in sour-cream sauce\"",
+            "snippet": "A method of preparing canned food, which involves preparing the recipe components, soaking in milk and chopping wheat bread, cutting and chopping meat, mixing the listed components with table salt and bitter black pepper to obtain a cutlet mass, molding it, breading in wheat bread crumbs and …",
+            "priority_date": "2008-02-06",
+            "filing_date": "2008-02-06",
+            "grant_date": "2009-07-27",
+            "publication_date": "2009-07-27",
+            "inventor": "Олег Иванович Квасенков (RU)",
+            "assignee": "Олег Иванович Квасенков",
+            "publication_number": "RU2362421C1",
+            "language": "en",
+            "pdf": "https://patentimages.storage.googleapis.com/57/bd/90/c495f8e497c338/RU2362421C1.pdf",
+            "country_status": {
+                "RU": "ACTIVE"
+            }
+        }
+    ],
+    "summary": {
+        "assignee": [
+            {
+                "key": "Total",
+                "percentage": 100.0,
+                "frequency": [
+                    {
+                        "year_range": "2025-2028",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 3.9
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 11.3
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 14.7
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 13.9
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 11.6
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 13.7
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 11.0
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 9.9
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 7.5
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 7.5
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 4.6
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 4.1
+                    },
+                    {
+                        "year_range": "1986-1989",
+                        "percentage": 2.3
+                    },
+                    {
+                        "year_range": "1983-1986",
+                        "percentage": 1.6
+                    },
+                    {
+                        "year_range": "1980-1983",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "1977-1980",
+                        "percentage": 1.0
+                    },
+                    {
+                        "year_range": "1974-1977",
+                        "percentage": 0.9
+                    },
+                    {
+                        "year_range": "1971-1974",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1968-1971",
+                        "percentage": 0.9
+                    },
+                    {
+                        "year_range": "1965-1968",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "1962-1965",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "1959-1962",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1953-1956",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1944-1947",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1941-1944",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1935-1938",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1929-1932",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1920-1923",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "Whirlpool Corporation",
+                "percentage": 3.1,
+                "frequency": [
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 2.1
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "1983-1986",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "Олег Иванович Квасенков",
+                "percentage": 2.7,
+                "frequency": [
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 1.8
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 1.6
+                    }
+                ]
+            },
+            {
+                "key": "Eugenio Minvielle",
+                "percentage": 1.2,
+                "frequency": [
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 1.4
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "Lg电子株式会社",
+                "percentage": 0.9,
+                "frequency": [
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "Southwest Research Institute",
+                "percentage": 0.8,
+                "frequency": [
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 0.7
+                    }
+                ]
+            },
+            {
+                "key": "Sensor Electronic Technology, Inc.",
+                "percentage": 0.8,
+                "frequency": [
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.5
+                    }
+                ]
+            },
+            {
+                "key": "Федеральное государственное бюджетное образовательное учреждение высшего образования \"Кубанский государственный аграрный университет имени И.Т. Трубилина\"",
+                "percentage": 0.7,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.9
+                    }
+                ]
+            },
+            {
+                "key": "Iceberg Luxembourg S.A.R.L.",
+                "percentage": 0.6,
+                "frequency": [
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.2
+                    }
+                ]
+            },
+            {
+                "key": "Rohm And Haas Company",
+                "percentage": 0.5,
+                "frequency": [
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "江南大学",
+                "percentage": 0.4,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "利乐拉瓦尔集团及财务有限公司",
+                "percentage": 0.4,
+                "frequency": [
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.4
+                    }
+                ]
+            },
+            {
+                "key": "Panasonic Corporation",
+                "percentage": 0.4,
+                "frequency": [
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "Maxwell Laboratories, Inc.",
+                "percentage": 0.4,
+                "frequency": [
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1986-1989",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1983-1986",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "三菱电机株式会社",
+                "percentage": 0.4,
+                "frequency": [
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.2
+                    }
+                ]
+            },
+            {
+                "key": "Curwood, Inc.",
+                "percentage": 0.4,
+                "frequency": [
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.3
+                    }
+                ]
+            },
+            {
+                "key": "美的集团股份有限公司",
+                "percentage": 0.4,
+                "frequency": [
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "松下电器产业株式会社",
+                "percentage": 0.4,
+                "frequency": [
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "Dupont Nutrition Biosciences Aps",
+                "percentage": 0.4,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "Tetra Laval Holdings & Finance S.A.",
+                "percentage": 0.4,
+                "frequency": [
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.1
+                    }
+                ]
+            }
+        ],
+        "inventor": [
+            {
+                "key": "Total",
+                "percentage": 100.0,
+                "frequency": [
+                    {
+                        "year_range": "2025-2028",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 3.9
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 11.3
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 14.7
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 13.9
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 11.6
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 13.7
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 11.0
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 9.9
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 7.5
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 7.5
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 4.6
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 4.1
+                    },
+                    {
+                        "year_range": "1986-1989",
+                        "percentage": 2.3
+                    },
+                    {
+                        "year_range": "1983-1986",
+                        "percentage": 1.6
+                    },
+                    {
+                        "year_range": "1980-1983",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "1977-1980",
+                        "percentage": 1.0
+                    },
+                    {
+                        "year_range": "1974-1977",
+                        "percentage": 0.9
+                    },
+                    {
+                        "year_range": "1971-1974",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1968-1971",
+                        "percentage": 0.9
+                    },
+                    {
+                        "year_range": "1965-1968",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "1962-1965",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "1959-1962",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1953-1956",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1944-1947",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1941-1944",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1935-1938",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1929-1932",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1920-1923",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "Олег Иванович Квасенков (RU)",
+                "percentage": 2.9,
+                "frequency": [
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 1.9
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 1.7
+                    }
+                ]
+            },
+            {
+                "key": "Олег Иванович Квасенков",
+                "percentage": 2.9,
+                "frequency": [
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 1.9
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 1.7
+                    }
+                ]
+            },
+            {
+                "key": "Eugenio Minvielle",
+                "percentage": 1.9,
+                "frequency": [
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 1.4
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.3
+                    }
+                ]
+            },
+            {
+                "key": "Richard A. McCoy",
+                "percentage": 1.5,
+                "frequency": [
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 1.6
+                    }
+                ]
+            },
+            {
+                "key": "Matthew P. Ebrom",
+                "percentage": 1.2,
+                "frequency": [
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 1.2
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "Mark E. Glotzbach",
+                "percentage": 0.8,
+                "frequency": [
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.8
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "Michael Shur",
+                "percentage": 0.8,
+                "frequency": [
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.5
+                    }
+                ]
+            },
+            {
+                "key": "Joel J. Kampa",
+                "percentage": 0.8,
+                "frequency": [
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 0.6
+                    }
+                ]
+            },
+            {
+                "key": "Stephen T. Wellinghoff",
+                "percentage": 0.8,
+                "frequency": [
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 0.7
+                    }
+                ]
+            },
+            {
+                "key": "Alexander Dobrinsky",
+                "percentage": 0.8,
+                "frequency": [
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.5
+                    }
+                ]
+            },
+            {
+                "key": "Remigijus Gaska",
+                "percentage": 0.7,
+                "frequency": [
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.5
+                    }
+                ]
+            },
+            {
+                "key": "Timothy James Bettles",
+                "percentage": 0.7,
+                "frequency": [
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.5
+                    }
+                ]
+            },
+            {
+                "key": "Антон Алексеевич Нестеренко",
+                "percentage": 0.7,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.9
+                    }
+                ]
+            },
+            {
+                "key": "Надежда Викторовна Кенийз",
+                "percentage": 0.7,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.9
+                    }
+                ]
+            },
+            {
+                "key": "Ева Вячеславовна Зубкова",
+                "percentage": 0.7,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.9
+                    }
+                ]
+            },
+            {
+                "key": "Владимир Викторович Востриков",
+                "percentage": 0.7,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.9
+                    }
+                ]
+            },
+            {
+                "key": "Maxim S. Shatalov",
+                "percentage": 0.6,
+                "frequency": [
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.3
+                    }
+                ]
+            },
+            {
+                "key": "Joseph E. Dunn",
+                "percentage": 0.6,
+                "frequency": [
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1986-1989",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1983-1986",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "Yuri Bilenko",
+                "percentage": 0.5,
+                "frequency": [
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.5
+                    }
+                ]
+            }
+        ],
+        "cpc": [
+            {
+                "key": "Total",
+                "percentage": 100.0,
+                "frequency": [
+                    {
+                        "year_range": "2025-2028",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 3.9
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 11.3
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 14.7
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 13.9
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 11.6
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 13.7
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 11.0
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 9.9
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 7.5
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 7.5
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 4.6
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 4.1
+                    },
+                    {
+                        "year_range": "1986-1989",
+                        "percentage": 2.3
+                    },
+                    {
+                        "year_range": "1983-1986",
+                        "percentage": 1.6
+                    },
+                    {
+                        "year_range": "1980-1983",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "1977-1980",
+                        "percentage": 1.0
+                    },
+                    {
+                        "year_range": "1974-1977",
+                        "percentage": 0.9
+                    },
+                    {
+                        "year_range": "1971-1974",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1968-1971",
+                        "percentage": 0.9
+                    },
+                    {
+                        "year_range": "1965-1968",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "1962-1965",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "1959-1962",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1953-1956",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1944-1947",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1941-1944",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1935-1938",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1929-1932",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1920-1923",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "A23B",
+                "percentage": 30.2,
+                "frequency": [
+                    {
+                        "year_range": "2025-2028",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 1.3
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 3.3
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 4.0
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 3.1
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 2.9
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 2.8
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 3.1
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 2.2
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 3.0
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 2.4
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 2.1
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 2.2
+                    },
+                    {
+                        "year_range": "1986-1989",
+                        "percentage": 1.3
+                    },
+                    {
+                        "year_range": "1983-1986",
+                        "percentage": 0.8
+                    },
+                    {
+                        "year_range": "1980-1983",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1977-1980",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "1974-1977",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1971-1974",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1968-1971",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "1965-1968",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "1962-1965",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1953-1956",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1944-1947",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1941-1944",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1935-1938",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "A23L",
+                "percentage": 22.6,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 1.7
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 3.9
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 4.7
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 2.6
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 3.2
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 2.3
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 2.3
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 1.7
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 1.5
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 1.4
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 1.1
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 0.7
+                    },
+                    {
+                        "year_range": "1983-1986",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "1980-1983",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1965-1968",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1935-1938",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "A23V",
+                "percentage": 14.8,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 1.5
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 2.7
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 4.5
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 2.7
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 1.6
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 1.4
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 1.5
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 1.3
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1986-1989",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1983-1986",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "A61K",
+                "percentage": 14.4,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 2.1
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 2.3
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.9
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 2.9
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 1.3
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 2.4
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 2.2
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 1.1
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 0.8
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 0.8
+                    },
+                    {
+                        "year_range": "1986-1989",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "1983-1986",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "F25D",
+                "percentage": 11.8,
+                "frequency": [
+                    {
+                        "year_range": "2025-2028",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.7
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 2.6
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 2.1
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 1.3
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 2.3
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 1.2
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 1.5
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 1.1
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1986-1989",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1983-1986",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1977-1980",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1968-1971",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1962-1965",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1944-1947",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "A61P",
+                "percentage": 11.5,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 2.0
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 1.9
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 3.0
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 1.1
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 1.9
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 2.1
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.7
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "1986-1989",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "B65D",
+                "percentage": 10.2,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 1.3
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 1.8
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.8
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.8
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 1.3
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 1.3
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 0.9
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 0.9
+                    },
+                    {
+                        "year_range": "1986-1989",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "1983-1986",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1980-1983",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1977-1980",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1974-1977",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1971-1974",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1968-1971",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1965-1968",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1959-1962",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1920-1923",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "A01N",
+                "percentage": 9.9,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 1.2
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 1.6
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 1.0
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 1.7
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.7
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 1.3
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 1.0
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 1.0
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 1.3
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "1986-1989",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1965-1968",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "Y02A",
+                "percentage": 8.6,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.8
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.8
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 1.6
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 1.6
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 1.1
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 1.1
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 1.5
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 0.8
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1977-1980",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "C12N",
+                "percentage": 8.0,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 1.3
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 2.0
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 1.6
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 1.0
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.9
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 1.1
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 0.7
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1986-1989",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1983-1986",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "Y10T",
+                "percentage": 7.5,
+                "frequency": [
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 1.0
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 1.3
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 1.0
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 1.0
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 1.4
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 0.7
+                    },
+                    {
+                        "year_range": "1986-1989",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "1983-1986",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1980-1983",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1977-1980",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1974-1977",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1968-1971",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "B32B",
+                "percentage": 6.3,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 1.2
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 1.0
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.7
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 1.0
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "1986-1989",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1983-1986",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1980-1983",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1977-1980",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1974-1977",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "A23C",
+                "percentage": 6.0,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 1.1
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.7
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.8
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 0.9
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "1986-1989",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1983-1986",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1977-1980",
+                        "percentage": 0.2
+                    }
+                ]
+            },
+            {
+                "key": "A23K",
+                "percentage": 5.9,
+                "frequency": [
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.8
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.7
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 1.3
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.8
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 1.0
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.8
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1983-1986",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1977-1980",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1974-1977",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1968-1971",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1962-1965",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "A47J",
+                "percentage": 5.4,
+                "frequency": [
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 1.3
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.9
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 1.1
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 0.9
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "1980-1983",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1977-1980",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1974-1977",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1968-1971",
+                        "percentage": 0.2
+                    }
+                ]
+            },
+            {
+                "key": "A61Q",
+                "percentage": 4.7,
+                "frequency": [
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.9
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.8
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 1.0
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 0.5
+                    }
+                ]
+            },
+            {
+                "key": "Y10S",
+                "percentage": 4.6,
+                "frequency": [
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 0.9
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.7
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 1.0
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "1986-1989",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1983-1986",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1977-1980",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1974-1977",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1971-1974",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1968-1971",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "1959-1962",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1944-1947",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1920-1923",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "A61L",
+                "percentage": 4.4,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 1.0
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 0.8
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.4
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 0.7
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1989-1992",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "1986-1989",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1983-1986",
+                        "percentage": 0.1
+                    }
+                ]
+            },
+            {
+                "key": "A23P",
+                "percentage": 4.1,
+                "frequency": [
+                    {
+                        "year_range": "2022-2025",
+                        "percentage": 0.2
+                    },
+                    {
+                        "year_range": "2019-2022",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "2016-2019",
+                        "percentage": 0.6
+                    },
+                    {
+                        "year_range": "2013-2016",
+                        "percentage": 1.1
+                    },
+                    {
+                        "year_range": "2010-2013",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "2007-2010",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2004-2007",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "2001-2004",
+                        "percentage": 0.5
+                    },
+                    {
+                        "year_range": "1998-2001",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1995-1998",
+                        "percentage": 0.3
+                    },
+                    {
+                        "year_range": "1992-1995",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1977-1980",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1974-1977",
+                        "percentage": 0.1
+                    },
+                    {
+                        "year_range": "1965-1968",
+                        "percentage": 0.2
+                    }
+                ]
+            }
+        ]
+    },
+    "pagination": {
+        "current": 1,
+        "next": "https://patents.google.com/xhr/query?url=q%3Dcoffee%2Bprocessing%2BOR%2Bfood%2Bpreservation%26page%3D2%26num%3D50"
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next": "https://serpapi.com/search.json?engine=google_patents&num=50&page=2&q=coffee+processing+OR+food+preservation"
+    }
+}
